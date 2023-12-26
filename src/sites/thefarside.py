@@ -3,6 +3,7 @@ from datetime import datetime
 
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
 
 class TheFarSide:
 
@@ -36,7 +37,12 @@ class TheFarSide:
                 # filepath = f"./comics/{todays_date.year}-{todays_date.month}-{todays_date.day}-{index}.jpg"
                 # self.write_image(filepath, comic_img_url)
 
-                comic_caption = comic_card.find_element(By.CSS_SELECTOR, ".figure-caption").text
+                # some comics don't have a caption so handle it
+                try:
+                    comic_caption = comic_card.find_element(By.CSS_SELECTOR, ".figure-caption").text
+                except NoSuchElementException:
+                    comic_caption = ""
+
                 comic_data = {
                     "image": comic_img_url,
                     "caption": comic_caption
@@ -56,7 +62,7 @@ class TheFarSide:
                 "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
                 "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
                 "summary": {
-                    "img": comic["image_url"],
+                    "img": comic["image"],
                     "caption": comic["caption"]
                 }
             }
