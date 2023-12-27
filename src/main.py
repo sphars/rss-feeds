@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
 from sites.thefarside import TheFarSide
+from generate_feed import GenerateFeed
 
 def setup_chrome():
     # try and get the chrome version from either the installed chrome or env var
@@ -38,7 +39,7 @@ def main():
 
     # setup chrome
     driver = setup_chrome()
-    todays_date = datetime.now()
+    todays_date = datetime.utcnow()
 
     # run scrapers
     tfs = TheFarSide(driver, todays_date)
@@ -58,8 +59,15 @@ def main():
 
     # write to json file
     if (tfs_comics):
+        tfs_feed = tfs.build_feed_data(tfs_comics)
         with open("../feeds/thefarside.json", "w") as f:
-            json.dump(tfs.build_feed_data(tfs_comics), f, ensure_ascii=False, indent=2)
+            json.dump(tfs_feed, f, ensure_ascii=False, indent=2)
+
+        # get the atom feed
+        gf = GenerateFeed()
+        atom_feed = gf.generate_atom(tfs_feed, todays_date)
+        with open("../feeds/thefarside.xml", "w") as f:
+            f.write(atom_feed)
 
 if __name__ == "__main__":
     main()

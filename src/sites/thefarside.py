@@ -55,9 +55,9 @@ class TheFarSide:
     def build_feed_data(self, comics):
         entries = []
 
-        for comic in comics:
+        for index, comic in enumerate(comics):
             entry = {
-                "title": f"The Far Side comic for {self.todays_date.strftime('%Y-%m-%d')}",
+                "title": f"The Far Side comic {index + 1} for {self.todays_date.strftime('%B %d, %Y')}",
                 "link": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
                 "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
                 "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
@@ -69,7 +69,7 @@ class TheFarSide:
             entries.append(entry)
 
         feed_data = {
-            "title": "The Far Side Comic Strip by Gary Larson",
+            "title": "The Far Side",
             "link": "https://www.thefarside.com/",
             "id": "https://www.thefarside.com/",
             "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
