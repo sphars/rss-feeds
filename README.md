@@ -1,7 +1,8 @@
 # RSS Feeds
 Generating RSS feeds for sites that don't provide them. Mostly an exercise in scraping.
 
-See also [OpenRSS](https://openrss.org/)
+See also [OpenRSS](https://openrss.org/) for getting feeds for sites that don't provide their own.
+
 
 ## Sites
 
@@ -14,7 +15,7 @@ To use, simply import the respective RSS Feed into your reader.
 Other sites coming soon.
 
 ## Disclaimer
-All content is copyright their respective owners. The scripts here are used generate RSS feeds that point to the source material.
+All content is copyright their respective owners. The scripts here simply generate RSS feeds that point to the source material. The content is not stored here, if possible.
 
 ## License
 The code in this repo is licensed under the [MIT License](/LICENSE)
