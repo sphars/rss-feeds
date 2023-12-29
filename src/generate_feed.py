@@ -16,7 +16,7 @@ class GenerateFeed:
         title.text = comic_json["title"]
 
         subtitle = ET.SubElement(feed, "subtitle")
-        subtitle.text = f"RSS feed for {comic_json['title']}"
+        subtitle.text = comic_json['subtitle']
 
         link = ET.SubElement(feed, "link", attrib={"href":f"{comic_json['link']}", "rel":"alternate"})
 
@@ -29,18 +29,6 @@ class GenerateFeed:
 
         updated = ET.SubElement(feed, "updated")
         updated.text = comic_json['updated'] # valid ISO timestamp
-
-        # write each comic as an <li> element
-        li_elements = []
-        for comic_entry in comic_json['entries']:
-            li_inner = f'<img src="{comic_entry["summary"]["img"]}" alt="{comic_entry["summary"]["caption"]}"/>'
-            li_inner += f"<p>{comic_entry['summary']['caption']}</p>"
-            li_element = f"<li>{li_inner}</li>"
-            li_elements.append(li_element)
-
-        # write the <ul>
-        items = "\n".join(li_elements)
-        ul_element = f"<ul>{items}</ul>"
 
         # Create the entry element
         entry = ET.SubElement(feed, "entry")
@@ -56,10 +44,22 @@ class GenerateFeed:
         entry_updated = ET.SubElement(entry, "updated")
         entry_updated.text = comic_json['entries'][0]['updated']  # Use a valid timestamp
 
-        # add the content (<ul>)
-        entry_summary = ET.SubElement(entry, "summary", attrib={"type":"html"})
-        entry_summary.text = ul_element
+        # write each comic as an img/p elements
+        comic_elements = []
+        for comic_entry in comic_json['entries']:
+            comic_element = f'<a href="{comic_entry["summary"]["link"]}"><img width="600" src="{comic_entry["summary"]["img"]}" alt="{comic_entry["summary"]["caption"]}"/></a>'
+            comic_element += f"<p>{comic_entry['summary']['caption']}</p>"
+            comic_elements.append(comic_element)
 
+        # write the outer div
+        items = "\n".join(comic_elements)
+        comic_element_container = f"<div>{items}</div>"
+
+        # add the content to the entry element
+        entry_summary = ET.SubElement(entry, "summary", attrib={"type":"html"})
+        entry_summary.text = comic_element_container
+
+        # indent for some pretty formatting
         ET.indent(feed, space="\t", level=0)
 
         # write the string and add a string at the beginning specifying the xml version

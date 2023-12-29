@@ -45,7 +45,8 @@ class TheFarSide:
 
                 comic_data = {
                     "image": comic_img_url,
-                    "caption": comic_caption
+                    "caption": comic_caption,
+                    "link": f"{far_side_url}/{index}"
                 }
                 comics.append(comic_data)
 
@@ -63,13 +64,15 @@ class TheFarSide:
                 "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
                 "summary": {
                     "img": comic["image"],
-                    "caption": comic["caption"]
+                    "caption": comic["caption"],
+                    "link": comic["link"]
                 }
             }
             entries.append(entry)
 
         feed_data = {
             "title": "The Far Side",
+            "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
             "link": "https://www.thefarside.com/",
             "id": "https://www.thefarside.com/",
             "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",

@@ -39,31 +39,31 @@ def main():
 
     # setup chrome
     driver = setup_chrome()
-    todays_date = datetime.utcnow()
+    todays_date = datetime.now()
 
     # run scrapers
     tfs = TheFarSide(driver, todays_date)
     tfs_comics = tfs.get_comics()
 
-
-    # format
+    # format final data dictionary
     comics = {
         "date": f"{todays_date.replace(microsecond=0).isoformat()}Z",
         "thefarside": tfs_comics
     }
 
-    with open("comics.json", "w") as f:
-        json.dump(comics, f, ensure_ascii=False, indent=2)
+    # debugging only
+    # with open("comics.json", "w") as f:
+    #     json.dump(comics, f, ensure_ascii=False, indent=2)
 
     pprint(comics,indent=2)
 
-    # write to json file
     if (tfs_comics):
+        # write to json file
         tfs_feed = tfs.build_feed_data(tfs_comics)
         with open("../feeds/thefarside.json", "w") as f:
             json.dump(tfs_feed, f, ensure_ascii=False, indent=2)
 
-        # get the atom feed
+        # write the atom feed
         gf = GenerateFeed()
         atom_feed = gf.generate_atom(tfs_feed, todays_date)
         with open("../feeds/thefarside.xml", "w") as f:
