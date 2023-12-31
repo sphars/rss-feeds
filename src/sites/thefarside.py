@@ -53,22 +53,24 @@ class TheFarSide:
             self.comics = comics
             return comics
         
-    def build_feed_data(self, comics):
+    def build_feed_data(self):
         entries = []
 
-        for index, comic in enumerate(comics):
-            entry = {
-                "title": f"The Far Side comic {index + 1} for {self.todays_date.strftime('%B %d, %Y')}",
-                "link": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
-                "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
-                "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
-                "summary": {
-                    "img": comic["image"],
-                    "caption": comic["caption"],
-                    "link": comic["link"]
+        if len(self.comics) > 0:
+                
+            for index, comic in enumerate(self.comics):
+                entry = {
+                    "title": f"The Far Side comic {index + 1} for {self.todays_date.strftime('%B %d, %Y')}",
+                    "link": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
+                    "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
+                    "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
+                    "summary": {
+                        "img": comic["image"],
+                        "caption": comic["caption"],
+                        "link": comic["link"]
+                    }
                 }
-            }
-            entries.append(entry)
+                entries.append(entry)
 
         feed_data = {
             "title": "The Far Side",

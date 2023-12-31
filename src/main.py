@@ -42,13 +42,15 @@ def main():
     todays_date = datetime.now()
 
     # run scrapers
+    comics_feed_data = []
     tfs = TheFarSide(driver, todays_date)
     tfs_comics = tfs.get_comics()
+    comics_feed_data.append(tfs.build_feed_data())
 
     # format final data dictionary
     comics = {
         "date": f"{todays_date.replace(microsecond=0).isoformat()}Z",
-        "thefarside": tfs_comics
+        "data": comics_feed_data
     }
 
     # debugging only
@@ -57,17 +59,22 @@ def main():
 
     pprint(comics,indent=2)
 
-    if (tfs_comics):
-        # write to json file
-        tfs_feed = tfs.build_feed_data(tfs_comics)
-        with open("../feeds/thefarside.json", "w") as f:
-            json.dump(tfs_feed, f, ensure_ascii=False, indent=2)
+    for comic_feed in comics_feed_data:
+            
+        if len(comic_feed["entries"]) > 0:
+            filename = comic_feed['title'].replace(' ', '_').lower()
+            
+            # write to json file        
+            with open(f"../feeds/{filename}.json", "w") as f:
+                json.dump(comic_feed, f, ensure_ascii=False, indent=2)
 
-        # write the atom feed
-        gf = GenerateFeed()
-        atom_feed = gf.generate_atom(tfs_feed, todays_date)
-        with open("../feeds/thefarside.xml", "w") as f:
-            f.write(atom_feed)
+            # write the atom feed
+            gf = GenerateFeed()
+            atom_feed = gf.generate_atom(comic_feed, todays_date)
+            file_location = f"../www/{filename}/feed.xml"
+            os.makedirs(os.path.dirname(file_location), exist_ok=True)
+            with open(file_location, "w") as f:
+                f.write(atom_feed)
 
 if __name__ == "__main__":
     main()
