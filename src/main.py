@@ -1,4 +1,5 @@
 import json, os, requests, subprocess
+from pathlib import Path
 from pprint import pprint
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -12,9 +13,9 @@ from generate_feed import GenerateFeed
 def setup_chrome():
     # try and get the chrome version from either the installed chrome or env var
     try:
-        chrome_version = subprocess.run(["google-chrome", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
+        chrome_version = subprocess.run(["chromium-browser", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
     except:
-        chrome_version = os.getenv("CHROME_VERSION", "120.0.6099.129")
+        chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
 
     print(f"Using Chrome {chrome_version}")
     chrome_options = webdriver.ChromeOptions()
@@ -59,21 +60,27 @@ def main():
 
     pprint(comics,indent=2)
 
+    path = Path(__file__).parent.parent
+    print(path)
     for comic_feed in comics_feed_data:
             
         if len(comic_feed["entries"]) > 0:
-            filename = comic_feed['title'].replace(' ', '_').lower()
+            comic_slug = comic_feed['title'].replace(' ', '_').lower()
+
+
             
-            # write to json file        
-            with open(f"../feeds/{filename}.json", "w") as f:
+            # write to json file     
+            json_file_path = f"{path}/feeds/{comic_slug}/feed.json"
+            os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
+            with open(json_file_path, "w") as f:
                 json.dump(comic_feed, f, ensure_ascii=False, indent=2)
 
             # write the atom feed
             gf = GenerateFeed()
             atom_feed = gf.generate_atom(comic_feed, todays_date)
-            file_location = f"../www/{filename}/feed.xml"
-            os.makedirs(os.path.dirname(file_location), exist_ok=True)
-            with open(file_location, "w") as f:
+            atom_file_path = f"{path}/feeds/{comic_slug}/feed.xml"
+            os.makedirs(os.path.dirname(atom_file_path), exist_ok=True)
+            with open(atom_file_path, "w") as f:
                 f.write(atom_feed)
 
 if __name__ == "__main__":
