@@ -28,10 +28,13 @@ class TheFarSide:
 
         comic_cards = self.driver.find_elements(By.XPATH, "//div[@data-position]")
         if comic_cards:
-            print(f"Found {len(comic_cards)} comic cards")
+            print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
             
+            # the final list of comics
             comics = []
             for index, comic_card in enumerate(comic_cards):
+
+                # just getting the image source for now
                 comic_img_url = comic_card.find_element(By.TAG_NAME, "img").get_attribute("data-src")
                 
                 # filepath = f"./comics/{todays_date.year}-{todays_date.month}-{todays_date.day}-{index}.jpg"
@@ -42,6 +45,9 @@ class TheFarSide:
                     comic_caption = comic_card.find_element(By.CSS_SELECTOR, ".figure-caption").text
                 except NoSuchElementException:
                     comic_caption = ""
+
+                # TODO: make an image with the comic and the caption together, like the old school far side
+                # TODO: maybe encode it as base-64? that way the image isn't stored anywhere "physically"
 
                 comic_data = {
                     "image": comic_img_url,

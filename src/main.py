@@ -54,21 +54,16 @@ def main():
         "data": comics_feed_data
     }
 
-    # debugging only
-    # with open("comics.json", "w") as f:
-    #     json.dump(comics, f, ensure_ascii=False, indent=2)
+    # pprint(comics,indent=2)
 
-    pprint(comics,indent=2)
-
+    # get the repo root basically
     path = Path(__file__).parent.parent
-    print(path)
+    
     for comic_feed in comics_feed_data:
             
         if len(comic_feed["entries"]) > 0:
             comic_slug = comic_feed['title'].replace(' ', '_').lower()
 
-
-            
             # write to json file     
             json_file_path = f"{path}/feeds/{comic_slug}/feed.json"
             os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
