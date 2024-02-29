@@ -17,7 +17,7 @@ def setup_chrome():
     except:
         chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
 
-    print(f"Using Chrome {chrome_version}")
+    #print(f"Using Chrome {chrome_version}")
     chrome_options = webdriver.ChromeOptions()
     user_agent = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{chrome_version} Safari/537.36"
     options = [
@@ -38,11 +38,11 @@ def setup_chrome():
 
 def main():
 
-    print("setting up chrome")
+    #print("setting up chrome")
     # setup chrome
     driver = setup_chrome()
     todays_date = datetime.now()
-    print(f"today's date: {todays_date.date}")
+    #print(f"today's date: {todays_date.date}")
 
     # run scrapers
     comics_feed_data = []
@@ -72,7 +72,7 @@ def main():
 
             # write to json file     
             json_file_path = f"{path}/feeds/{comic_slug}/feed.json"
-            print(json_file_path)
+            #print(json_file_path)
             # os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
             # try:
             #     with open(json_file_path, "w") as f:
