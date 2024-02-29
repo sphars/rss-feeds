@@ -58,6 +58,8 @@ class TheFarSide:
 
             self.comics = comics
             return comics
+        else:
+            print("[The Far Side] No comics found...")
         
     def build_feed_data(self):
         entries = []
