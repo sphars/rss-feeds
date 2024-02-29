@@ -8,11 +8,15 @@ See also [OpenRSS](https://openrss.org/) for getting feeds for sites that don't 
 
 To use, simply import the respective RSS Feed into your reader.
 
-| Site | Homepage | RSS Feed |
-|------|----------|----------|
-| The Far Side | https://www.thefarside.com/ | Coming soon |
+| Site | Homepage |
+|------|----------|
+| The Far Side | https://www.thefarside.com/ |
 
-Other sites coming soon.
+Other sites coming soon as I feel like it.
+
+## Requirements
+- python
+- chromium
 
 ## Disclaimer
 All content is copyright their respective owners. The scripts here simply generate RSS feeds that point to the source material. The content is not stored here, if possible.
