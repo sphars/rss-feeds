@@ -31,7 +31,7 @@ def setup_chrome():
     for option in options:
         chrome_options.add_argument(option)
     chrome_options.enable_downloads = False
-    service = Service(log_output=1)
+    service = Service()
     driver = webdriver.Chrome(options=chrome_options, service=service)
     return driver
 
