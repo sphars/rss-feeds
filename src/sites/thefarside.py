@@ -24,11 +24,11 @@ class TheFarSide:
         far_side_url = f"https://www.thefarside.com/{current_day_string}"
         
         self.driver.get(far_side_url)
-        self.driver.implicitly_wait(2)
+        self.driver.implicitly_wait(10)
 
         comic_cards = self.driver.find_elements(By.XPATH, "//div[@data-position]")
         if comic_cards:
-            #print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
+            print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
             
             # the final list of comics
             comics = []
