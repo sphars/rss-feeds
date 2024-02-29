@@ -28,7 +28,6 @@ def main():
 
     feeds = []
     file_list = [f for f in iglob(source + "/**/*", recursive=True) if os.path.isfile(f) and f.endswith(".json")]
-    print(file_list)
     for f in file_list:
         # read the json
         with open(f, "r") as f_in:
@@ -37,6 +36,7 @@ def main():
     # write the table data
     table_data = []
     for feed in feeds:
+        print(f"[{feed['title']}] Writing HTML...")
         table_row = f'''<tr>
             <td><a href="{feed['link']}">{feed['title']}</a></td>
             <td><a href="feeds/{ str(feed['title']).lower().replace(' ', '_')}/feed.xml">Feed</a></td>

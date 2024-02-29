@@ -1,6 +1,9 @@
 name: Fetch Feeds
 
 on:
+  schedule:
+    - cron: '40 3 * * *'
+
   workflow_dispatch:
 
 jobs:
@@ -10,14 +13,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Check Chromium and Chromedriver versions
         run: |
           export CHROME_VERSION=$(chromium-browser --product-version)
-          echo $CHROME_VERSION
           chromedriver --version
         
       - name: Install dependencies
@@ -37,11 +39,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}          
           publish_branch: gh-pages
           publish_dir: ./dist
-
-
-      # - name: Commit and push changes
-      #   id: commit_and_push
-      #   uses: EndBug/add-and-commit@v9
-      #   with:
-      #     message: "action: update feeds"
-      #     default_author: github_actions

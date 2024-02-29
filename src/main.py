@@ -1,8 +1,6 @@
 import json, os, requests, subprocess
 from pathlib import Path
-from pprint import pprint
 from datetime import datetime
-from zoneinfo import ZoneInfo
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -54,8 +52,6 @@ def main():
         "date": f"{todays_date.replace(microsecond=0).isoformat()}Z",
         "data": comics_feed_data
     }
-
-    # pprint(comics,indent=2)
 
     # get the repo root basically
     try:
