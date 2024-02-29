@@ -28,7 +28,7 @@ class TheFarSide:
 
         comic_cards = self.driver.find_elements(By.XPATH, "//div[@data-position]")
         if comic_cards:
-            print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
+            #print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
             
             # the final list of comics
             comics = []
