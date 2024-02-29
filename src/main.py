@@ -49,6 +49,7 @@ def main():
     tfs = TheFarSide(driver, todays_date)
     tfs_comics = tfs.get_comics()
     comics_feed_data.append(tfs.build_feed_data())
+    driver.quit()
 
     # format final data dictionary
     comics = {
