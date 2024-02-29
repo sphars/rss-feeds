@@ -69,7 +69,10 @@ def main():
             print(json_file_path)
             os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
             with open(json_file_path, "w") as f:
-                json.dump(comic_feed, f, ensure_ascii=False, indent=2)
+                try:
+                    json.dump(comic_feed, f, ensure_ascii=False, indent=2)
+                except Exception as e:
+                    print(e)
 
             # write the atom feed
             gf = GenerateFeed()
@@ -77,7 +80,10 @@ def main():
             atom_file_path = f"{path}/feeds/{comic_slug}/feed.xml"
             os.makedirs(os.path.dirname(atom_file_path), exist_ok=True)
             with open(atom_file_path, "w") as f:
-                f.write(atom_feed)
+                try:
+                    f.write(atom_feed)
+                except Exception as e:
+                    print(e)
 
 if __name__ == "__main__":
     main()
