@@ -12,10 +12,10 @@ from generate_feed import GenerateFeed
 
 def setup_chrome():
     # try and get the chrome version from either the installed chrome or env var
-    # try:
-    #     chrome_version = subprocess.run(["chromium-browser", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
-    # except:
-    chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
+    try:
+        chrome_version = subprocess.run(["chromium-browser", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
+    except:
+        chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
 
     print(f"Using Chrome {chrome_version}")
     chrome_options = webdriver.ChromeOptions()
@@ -30,7 +30,7 @@ def setup_chrome():
     ]
     for option in options:
         chrome_options.add_argument(option)
-    chrome_options.enable_downloads = True
+    chrome_options.enable_downloads = False
     service = Service(log_output=1)
     driver = webdriver.Chrome(options=chrome_options, service=service)
     return driver
@@ -38,9 +38,11 @@ def setup_chrome():
 
 def main():
 
+    print("setting up chrome")
     # setup chrome
     driver = setup_chrome()
     todays_date = datetime.now()
+    print(f"today's date: {todays_date.date}")
 
     # run scrapers
     comics_feed_data = []
@@ -57,7 +59,10 @@ def main():
     # pprint(comics,indent=2)
 
     # get the repo root basically
-    path = Path(__file__).parent.parent
+    try:
+        path = Path(__file__).parent.parent
+    except Exception as e:
+        print(e)
     
     for comic_feed in comics_feed_data:
             
