@@ -12,10 +12,10 @@ from generate_feed import GenerateFeed
 
 def setup_chrome():
     # try and get the chrome version from either the installed chrome or env var
-    try:
-        chrome_version = subprocess.run(["chromium-browser", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
-    except:
-        chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
+    # try:
+    #     chrome_version = subprocess.run(["chromium-browser", "--product-version"],stdout=subprocess.PIPE).stdout.decode("utf-8")
+    # except:
+    chrome_version = os.getenv("CHROME_VERSION", "121.0.6167.184")
 
     print(f"Using Chrome {chrome_version}")
     chrome_options = webdriver.ChromeOptions()
@@ -66,6 +66,7 @@ def main():
 
             # write to json file     
             json_file_path = f"{path}/feeds/{comic_slug}/feed.json"
+            print(json_file_path)
             os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
             with open(json_file_path, "w") as f:
                 json.dump(comic_feed, f, ensure_ascii=False, indent=2)

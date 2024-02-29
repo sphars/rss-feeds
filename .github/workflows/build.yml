@@ -16,7 +16,8 @@ jobs:
 
       - name: Check Chromium and Chromedriver versions
         run: |
-          chromium-browser --product-version
+          export CHROME_VERSION=$(chromium-browser --product-version)
+          echo $CHROME_VERSION
           chromedriver --version
         
       - name: Install dependencies
@@ -24,7 +25,7 @@ jobs:
 
       - name: Run main script
         run: |
-          CHROME_VERSION=$(chromium-browser --product-version) python src/main.py
+          python src/main.py
 
       - name: Generate webpage
         run: |
