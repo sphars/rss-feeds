@@ -42,7 +42,7 @@ class TheFarSide:
 
                 # some comics don't have a caption so handle it
                 try:
-                    comic_caption = comic_card.find_element(By.CSS_SELECTOR, ".figure-caption").text
+                    comic_caption = comic_card.find_element(By.CSS_SELECTOR, ".figure-caption").get_attribute("innerHTML")
                 except NoSuchElementException:
                     comic_caption = ""
 

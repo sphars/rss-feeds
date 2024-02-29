@@ -47,8 +47,10 @@ class GenerateFeed:
         # write each comic as an img/p elements
         comic_elements = []
         for comic_entry in comic_json['entries']:
-            comic_element = f'<a href="{comic_entry["summary"]["link"]}"><img width="600" src="{comic_entry["summary"]["img"]}" alt="{comic_entry["summary"]["caption"]}"/></a>'
-            comic_element += f"<p>{comic_entry['summary']['caption']}</p>"
+            # remove newlines and strip whitespace from caption
+            caption =  str(comic_entry['summary']['caption']).replace("\n", "").strip()
+            comic_element = f'<a href="{comic_entry["summary"]["link"]}"><img width="600" src="{comic_entry["summary"]["img"]}" alt="{caption}"/></a>'
+            comic_element += f"<p>{caption}</p>"
             comic_elements.append(comic_element)
 
         # write the outer div
