@@ -2,7 +2,7 @@ name: Fetch Feeds
 
 on:
   schedule:
-    - cron: '40 3 * * *'
+    - cron: '30 9 * * *'
 
   workflow_dispatch:
 
