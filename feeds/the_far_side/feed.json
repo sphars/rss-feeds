@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-02T09:33:03Z",
+  "updated": "2024-03-03T09:35:24Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 02, 2024",
-      "link": "https://www.thefarside.com/2024/3/2",
-      "updated": "2024-03-02T09:33:03Z",
-      "id": "https://www.thefarside.com/2024/3/2",
+      "title": "The Far Side comic 1 for March 03, 2024",
+      "link": "https://www.thefarside.com/2024/3/3",
+      "updated": "2024-03-03T09:35:24Z",
+      "id": "https://www.thefarside.com/2024/3/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/95b43c7f58c311ea8bf6005056a9",
-        "caption": "\n    Like moths to a light, the neighborhood dogs were all drawn by Emile’s uncontrollable fear.\n  ",
-        "link": "https://www.thefarside.com/2024/03/02/0"
+        "img": "https://assets.amuniversal.com/19186cb0027f0138d7ba005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/03/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 02, 2024",
-      "link": "https://www.thefarside.com/2024/3/2",
-      "updated": "2024-03-02T09:33:03Z",
-      "id": "https://www.thefarside.com/2024/3/2",
+      "title": "The Far Side comic 2 for March 03, 2024",
+      "link": "https://www.thefarside.com/2024/3/3",
+      "updated": "2024-03-03T09:35:24Z",
+      "id": "https://www.thefarside.com/2024/3/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/1549f450e85b0137cedf005056a9545d",
-        "caption": "\n    The squirrels of Central Park\n  ",
-        "link": "https://www.thefarside.com/2024/03/02/1"
+        "img": "https://assets.amuniversal.com/45230dd0cdd30137c56b005056a9545d",
+        "caption": "\n    “Blast! … The elephants are sick again!”\n  ",
+        "link": "https://www.thefarside.com/2024/03/03/1"
       }
     }
   ]
