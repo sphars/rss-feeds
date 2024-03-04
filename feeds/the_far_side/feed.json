@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-03T09:35:24Z",
+  "updated": "2024-03-04T11:14:29Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 03, 2024",
-      "link": "https://www.thefarside.com/2024/3/3",
-      "updated": "2024-03-03T09:35:24Z",
-      "id": "https://www.thefarside.com/2024/3/3",
+      "title": "The Far Side comic 1 for March 04, 2024",
+      "link": "https://www.thefarside.com/2024/3/4",
+      "updated": "2024-03-04T11:14:29Z",
+      "id": "https://www.thefarside.com/2024/3/4",
       "summary": {
-        "img": "https://assets.amuniversal.com/19186cb0027f0138d7ba005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/03/03/0"
+        "img": "https://assets.amuniversal.com/1f050640e9ef0137cf93005056a9545d",
+        "caption": "\n    Vern, Chuck, and the pope go fishing.\n\n  ",
+        "link": "https://www.thefarside.com/2024/03/04/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 03, 2024",
-      "link": "https://www.thefarside.com/2024/3/3",
-      "updated": "2024-03-03T09:35:24Z",
-      "id": "https://www.thefarside.com/2024/3/3",
+      "title": "The Far Side comic 2 for March 04, 2024",
+      "link": "https://www.thefarside.com/2024/3/4",
+      "updated": "2024-03-04T11:14:29Z",
+      "id": "https://www.thefarside.com/2024/3/4",
       "summary": {
-        "img": "https://assets.amuniversal.com/45230dd0cdd30137c56b005056a9545d",
-        "caption": "\n    “Blast! … The elephants are sick again!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/03/1"
+        "img": "https://assets.amuniversal.com/bbfbab90cdd20137c56b005056a9545d",
+        "caption": "\n    “I’m sorry ... try the wizard up the road. I just used my last heart and brain.”\n  ",
+        "link": "https://www.thefarside.com/2024/03/04/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for March 04, 2024",
+      "link": "https://www.thefarside.com/2024/3/4",
+      "updated": "2024-03-04T11:14:29Z",
+      "id": "https://www.thefarside.com/2024/3/4",
+      "summary": {
+        "img": "https://assets.amuniversal.com/5e3e4860cdd50137c56b005056a9545d",
+        "caption": "\n    “Autobiography I presume?”\n\n  ",
+        "link": "https://www.thefarside.com/2024/03/04/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for March 04, 2024",
+      "link": "https://www.thefarside.com/2024/3/4",
+      "updated": "2024-03-04T11:14:29Z",
+      "id": "https://www.thefarside.com/2024/3/4",
+      "summary": {
+        "img": "https://assets.amuniversal.com/94a4cbe0cdd40137c56b005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/04/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for March 04, 2024",
+      "link": "https://www.thefarside.com/2024/3/4",
+      "updated": "2024-03-04T11:14:29Z",
+      "id": "https://www.thefarside.com/2024/3/4",
+      "summary": {
+        "img": "https://assets.amuniversal.com/0b6e65209a2c01395f52005056a9545d",
+        "caption": "\n    “Say … I could go for something.”\n  ",
+        "link": "https://www.thefarside.com/2024/03/04/4"
       }
     }
   ]
