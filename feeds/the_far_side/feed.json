@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-08T09:34:11Z",
+  "updated": "2024-03-09T09:32:58Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 08, 2024",
-      "link": "https://www.thefarside.com/2024/3/8",
-      "updated": "2024-03-08T09:34:11Z",
-      "id": "https://www.thefarside.com/2024/3/8",
+      "title": "The Far Side comic 1 for March 09, 2024",
+      "link": "https://www.thefarside.com/2024/3/9",
+      "updated": "2024-03-09T09:32:58Z",
+      "id": "https://www.thefarside.com/2024/3/9",
       "summary": {
-        "img": "https://assets.amuniversal.com/d987c1b0e9ee0137cf93005056a9545d",
-        "caption": "\n    What the stranger didn't know, of course, was that Sam always kept a Dobie in his boot.\n  ",
-        "link": "https://www.thefarside.com/2024/03/08/0"
+        "img": "https://assets.amuniversal.com/a62c5160e9ef0137cf93005056a9545d",
+        "caption": "\n    “Ooo! You’re right, Sir Dwayne! If I knock right here, I can make him start buzzing. ... Ooo, and he’s <i>angry!</i>”\n  ",
+        "link": "https://www.thefarside.com/2024/03/09/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 08, 2024",
-      "link": "https://www.thefarside.com/2024/3/8",
-      "updated": "2024-03-08T09:34:11Z",
-      "id": "https://www.thefarside.com/2024/3/8",
+      "title": "The Far Side comic 2 for March 09, 2024",
+      "link": "https://www.thefarside.com/2024/3/9",
+      "updated": "2024-03-09T09:32:58Z",
+      "id": "https://www.thefarside.com/2024/3/9",
       "summary": {
-        "img": "https://assets.amuniversal.com/ac31fa80fa840137d52f005056a9545d",
-        "caption": "\n    “Oh, lovely—just the hundredth time you’ve managed to cut everyone’s head off.”\n  ",
-        "link": "https://www.thefarside.com/2024/03/08/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for March 08, 2024",
-      "link": "https://www.thefarside.com/2024/3/8",
-      "updated": "2024-03-08T09:34:11Z",
-      "id": "https://www.thefarside.com/2024/3/8",
-      "summary": {
-        "img": "https://assets.amuniversal.com/5fd389f0cdd50137c56b005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/03/08/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for March 08, 2024",
-      "link": "https://www.thefarside.com/2024/3/8",
-      "updated": "2024-03-08T09:34:11Z",
-      "id": "https://www.thefarside.com/2024/3/8",
-      "summary": {
-        "img": "https://assets.amuniversal.com/f518b1d0cdd20137c56b005056a9545d",
-        "caption": "\n    “Yes, sir … we caught him trying to smuggle this in under\n his coat.”\n  ",
-        "link": "https://www.thefarside.com/2024/03/08/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for March 08, 2024",
-      "link": "https://www.thefarside.com/2024/3/8",
-      "updated": "2024-03-08T09:34:11Z",
-      "id": "https://www.thefarside.com/2024/3/8",
-      "summary": {
-        "img": "https://assets.amuniversal.com/a25c4730e4860137cda5005056a9545d",
-        "caption": "\n    On a clear day, Eugene rose and looked around him and, regrettably, saw who he was.\n  ",
-        "link": "https://www.thefarside.com/2024/03/08/4"
+        "img": "https://assets.amuniversal.com/45eebc90dcca0137caaf005056a9545d",
+        "caption": "\n    “Here comes another big one, Roy, and here—we—goooooowheeeeeeeooo!”\n  ",
+        "link": "https://www.thefarside.com/2024/03/09/1"
       }
     }
   ]
