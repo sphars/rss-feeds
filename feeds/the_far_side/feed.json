@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-14T09:33:14Z",
+  "updated": "2024-03-15T09:33:15Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 14, 2024",
-      "link": "https://www.thefarside.com/2024/3/14",
-      "updated": "2024-03-14T09:33:14Z",
-      "id": "https://www.thefarside.com/2024/3/14",
+      "title": "The Far Side comic 1 for March 15, 2024",
+      "link": "https://www.thefarside.com/2024/3/15",
+      "updated": "2024-03-15T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee42f5f358c311ea8bf6005056a9",
-        "caption": "\n    Life on a microscope slide\n  ",
-        "link": "https://www.thefarside.com/2024/03/14/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for March 14, 2024",
-      "link": "https://www.thefarside.com/2024/3/14",
-      "updated": "2024-03-14T09:33:14Z",
-      "id": "https://www.thefarside.com/2024/3/14",
-      "summary": {
-        "img": "https://assets.amuniversal.com/921fb3c0e92f0137cf47005056a9545d",
+        "img": "https://assets.amuniversal.com/e0d03180e9ee0137cf93005056a9545d",
         "caption": "",
-        "link": "https://www.thefarside.com/2024/03/14/1"
+        "link": "https://www.thefarside.com/2024/03/15/0"
       }
     },
     {
-      "title": "The Far Side comic 3 for March 14, 2024",
-      "link": "https://www.thefarside.com/2024/3/14",
-      "updated": "2024-03-14T09:33:14Z",
-      "id": "https://www.thefarside.com/2024/3/14",
+      "title": "The Far Side comic 2 for March 15, 2024",
+      "link": "https://www.thefarside.com/2024/3/15",
+      "updated": "2024-03-15T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee4311e258c311ea8bf6005056a9",
-        "caption": "\n    “Lousy food … crummy service … dinky cabins … and that’s only the tip of the iceberg!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/14/2"
+        "img": "https://assets.amuniversal.com/9adc1640e4790137cd9d005056a9545d",
+        "caption": "\n    “The wench, you idiot! Bring me the <i>wench!”</i>\n  ",
+        "link": "https://www.thefarside.com/2024/03/15/1"
       }
     },
     {
-      "title": "The Far Side comic 4 for March 14, 2024",
-      "link": "https://www.thefarside.com/2024/3/14",
-      "updated": "2024-03-14T09:33:14Z",
-      "id": "https://www.thefarside.com/2024/3/14",
+      "title": "The Far Side comic 3 for March 15, 2024",
+      "link": "https://www.thefarside.com/2024/3/15",
+      "updated": "2024-03-15T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/fe85b370df110137cbaf005056a9545d",
-        "caption": "\n    “Well! No wonder! … Look who’s been loose the\nwhole evening!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/14/3"
+        "img": "https://assets.amuniversal.com/154f4a109a2c01395f52005056a9545d",
+        "caption": "\n    “Dang it! Doris! Hit the light! … I think there’s a mosquito after me!”\n  ",
+        "link": "https://www.thefarside.com/2024/03/15/2"
       }
     },
     {
-      "title": "The Far Side comic 5 for March 14, 2024",
-      "link": "https://www.thefarside.com/2024/3/14",
-      "updated": "2024-03-14T09:33:14Z",
-      "id": "https://www.thefarside.com/2024/3/14",
+      "title": "The Far Side comic 4 for March 15, 2024",
+      "link": "https://www.thefarside.com/2024/3/15",
+      "updated": "2024-03-15T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/6e0b8800df100137cbaf005056a9545d",
-        "caption": "\n    “What’s this? Your house? … Yes! Your house is on\nfire! … Fly away, dearie! Fly away home!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/14/4"
+        "img": "https://assets.amuniversal.com/8503bf80cdd50137c56b005056a9545d",
+        "caption": "\n    “We’ve made it, Warren! … The moon!”\n  ",
+        "link": "https://www.thefarside.com/2024/03/15/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for March 15, 2024",
+      "link": "https://www.thefarside.com/2024/3/15",
+      "updated": "2024-03-15T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/15",
+      "summary": {
+        "img": "https://assets.amuniversal.com/bdbd5330e85b0137cedf005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/15/4"
       }
     }
   ]
