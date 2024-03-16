@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-15T09:33:15Z",
+  "updated": "2024-03-16T09:32:56Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 15, 2024",
-      "link": "https://www.thefarside.com/2024/3/15",
-      "updated": "2024-03-15T09:33:15Z",
-      "id": "https://www.thefarside.com/2024/3/15",
+      "title": "The Far Side comic 1 for March 16, 2024",
+      "link": "https://www.thefarside.com/2024/3/16",
+      "updated": "2024-03-16T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/3/16",
       "summary": {
-        "img": "https://assets.amuniversal.com/e0d03180e9ee0137cf93005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/03/15/0"
+        "img": "https://assets.amuniversal.com/7a356390fa850137d52f005056a9545d",
+        "caption": "\n    “Dave! Ain’t that your horse that kid is messin’ with?”\n  ",
+        "link": "https://www.thefarside.com/2024/03/16/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 15, 2024",
-      "link": "https://www.thefarside.com/2024/3/15",
-      "updated": "2024-03-15T09:33:15Z",
-      "id": "https://www.thefarside.com/2024/3/15",
+      "title": "The Far Side comic 2 for March 16, 2024",
+      "link": "https://www.thefarside.com/2024/3/16",
+      "updated": "2024-03-16T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/3/16",
       "summary": {
-        "img": "https://assets.amuniversal.com/9adc1640e4790137cd9d005056a9545d",
-        "caption": "\n    “The wench, you idiot! Bring me the <i>wench!”</i>\n  ",
-        "link": "https://www.thefarside.com/2024/03/15/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for March 15, 2024",
-      "link": "https://www.thefarside.com/2024/3/15",
-      "updated": "2024-03-15T09:33:15Z",
-      "id": "https://www.thefarside.com/2024/3/15",
-      "summary": {
-        "img": "https://assets.amuniversal.com/154f4a109a2c01395f52005056a9545d",
-        "caption": "\n    “Dang it! Doris! Hit the light! … I think there’s a mosquito after me!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/15/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for March 15, 2024",
-      "link": "https://www.thefarside.com/2024/3/15",
-      "updated": "2024-03-15T09:33:15Z",
-      "id": "https://www.thefarside.com/2024/3/15",
-      "summary": {
-        "img": "https://assets.amuniversal.com/8503bf80cdd50137c56b005056a9545d",
-        "caption": "\n    “We’ve made it, Warren! … The moon!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/15/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for March 15, 2024",
-      "link": "https://www.thefarside.com/2024/3/15",
-      "updated": "2024-03-15T09:33:15Z",
-      "id": "https://www.thefarside.com/2024/3/15",
-      "summary": {
-        "img": "https://assets.amuniversal.com/bdbd5330e85b0137cedf005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/03/15/4"
+        "img": "https://assets.amuniversal.com/7d59c0f0e6f90137ce50005056a9545d",
+        "caption": "\n    And so it went, night after night, year after year. In fact, the Hansens had been in a living hell ever since that fateful day the neighbor’s “For Sale” sign had come down and a family of howler monkeys had moved in.\n\n  ",
+        "link": "https://www.thefarside.com/2024/03/16/1"
       }
     }
   ]
