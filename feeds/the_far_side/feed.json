@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-17T09:32:56Z",
+  "updated": "2024-03-18T09:33:54Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 17, 2024",
-      "link": "https://www.thefarside.com/2024/3/17",
-      "updated": "2024-03-17T09:32:56Z",
-      "id": "https://www.thefarside.com/2024/3/17",
+      "title": "The Far Side comic 1 for March 18, 2024",
+      "link": "https://www.thefarside.com/2024/3/18",
+      "updated": "2024-03-18T09:33:54Z",
+      "id": "https://www.thefarside.com/2024/3/18",
       "summary": {
-        "img": "https://assets.amuniversal.com/04f58b7002820138d7bb005056a9545d",
-        "caption": "\n    “Bob! There’s a fly on your lip! … There he goes. …  He’s back! He’s back!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/17/0"
+        "img": "https://assets.amuniversal.com/290dade0c1890137c0cc005056a9545d",
+        "caption": "\n    “Well, I’m not sure. … I guess it’s been washed.”\n  ",
+        "link": "https://www.thefarside.com/2024/03/18/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 17, 2024",
-      "link": "https://www.thefarside.com/2024/3/17",
-      "updated": "2024-03-17T09:32:56Z",
-      "id": "https://www.thefarside.com/2024/3/17",
+      "title": "The Far Side comic 2 for March 18, 2024",
+      "link": "https://www.thefarside.com/2024/3/18",
+      "updated": "2024-03-18T09:33:54Z",
+      "id": "https://www.thefarside.com/2024/3/18",
       "summary": {
-        "img": "https://assets.amuniversal.com/02a7ef40cdd60137c56b005056a9545d",
-        "caption": "\n    “Yes. Will you accept a collect call from a Mr. Aaaaaaaaaa?”\n  ",
-        "link": "https://www.thefarside.com/2024/03/17/1"
+        "img": "https://assets.amuniversal.com/853e9750fa850137d52f005056a9545d",
+        "caption": "\n    “Listen—I bought these here yesterday, and the dang things won’t stop squeaking!”\n\n  ",
+        "link": "https://www.thefarside.com/2024/03/18/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for March 18, 2024",
+      "link": "https://www.thefarside.com/2024/3/18",
+      "updated": "2024-03-18T09:33:54Z",
+      "id": "https://www.thefarside.com/2024/3/18",
+      "summary": {
+        "img": "https://assets.amuniversal.com/77ef5050ea250137cfba005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/18/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for March 18, 2024",
+      "link": "https://www.thefarside.com/2024/3/18",
+      "updated": "2024-03-18T09:33:54Z",
+      "id": "https://www.thefarside.com/2024/3/18",
+      "summary": {
+        "img": "https://assets.amuniversal.com/9d96abf0fa840137d52f005056a9545d",
+        "caption": "\n    Testing whether or not animals “kiss.”\n  ",
+        "link": "https://www.thefarside.com/2024/03/18/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for March 18, 2024",
+      "link": "https://www.thefarside.com/2024/3/18",
+      "updated": "2024-03-18T09:33:54Z",
+      "id": "https://www.thefarside.com/2024/3/18",
+      "summary": {
+        "img": "https://assets.amuniversal.com/cc9e8430cdd50137c56b005056a9545d",
+        "caption": "\n    “Oh, brother! … Not hamsters again!”\n  ",
+        "link": "https://www.thefarside.com/2024/03/18/4"
       }
     }
   ]
