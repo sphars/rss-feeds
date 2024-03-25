@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-24T09:33:10Z",
+  "updated": "2024-03-25T09:33:15Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 24, 2024",
-      "link": "https://www.thefarside.com/2024/3/24",
-      "updated": "2024-03-24T09:33:10Z",
-      "id": "https://www.thefarside.com/2024/3/24",
+      "title": "The Far Side comic 1 for March 25, 2024",
+      "link": "https://www.thefarside.com/2024/3/25",
+      "updated": "2024-03-25T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/52199950fa850137d52f005056a9545d",
-        "caption": "\n    “Oh, good heavens, no, Gladys—not for me. … I ate my young just an hour ago.”\n  ",
-        "link": "https://www.thefarside.com/2024/03/24/0"
+        "img": "https://assets.amuniversal.com/3ed2b04002820138d7bb005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/25/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 24, 2024",
-      "link": "https://www.thefarside.com/2024/3/24",
-      "updated": "2024-03-24T09:33:10Z",
-      "id": "https://www.thefarside.com/2024/3/24",
+      "title": "The Far Side comic 2 for March 25, 2024",
+      "link": "https://www.thefarside.com/2024/3/25",
+      "updated": "2024-03-25T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/542609c0e9ef0137cf93005056a9545d",
-        "caption": "\n    Scene from <i>The Crying Game II: The Rural Version</i>\n  ",
-        "link": "https://www.thefarside.com/2024/03/24/1"
+        "img": "https://assets.amuniversal.com/f0d2a090e92e0137cf47005056a9545d",
+        "caption": "\n    Laura runs to greet her pa in this scene from\n<i> Big Nose on the Prairie.</i>\n  ",
+        "link": "https://www.thefarside.com/2024/03/25/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for March 25, 2024",
+      "link": "https://www.thefarside.com/2024/3/25",
+      "updated": "2024-03-25T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/25",
+      "summary": {
+        "img": "https://assets.amuniversal.com/97d77b60e92d0137cf47005056a9545d",
+        "caption": "\n    Inside tours of Acme Fake Vomit, Inc.\n  ",
+        "link": "https://www.thefarside.com/2024/03/25/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for March 25, 2024",
+      "link": "https://www.thefarside.com/2024/3/25",
+      "updated": "2024-03-25T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/25",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee42f75158c311ea8bf6005056a9",
+        "caption": "\n    The operation was a success: Later, the duck, with his new human brain, went on to become the leader of a great flock. Irwin, however, was ostracized by his friends and family and eventually just ambled south.\n  ",
+        "link": "https://www.thefarside.com/2024/03/25/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for March 25, 2024",
+      "link": "https://www.thefarside.com/2024/3/25",
+      "updated": "2024-03-25T09:33:15Z",
+      "id": "https://www.thefarside.com/2024/3/25",
+      "summary": {
+        "img": "https://assets.amuniversal.com/443fe4a0e6f90137ce50005056a9545d",
+        "caption": "\n    Llamas at home\n\n  ",
+        "link": "https://www.thefarside.com/2024/03/25/4"
       }
     }
   ]
