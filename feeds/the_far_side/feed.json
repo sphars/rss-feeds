@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-30T09:32:38Z",
+  "updated": "2024-03-31T09:33:09Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 30, 2024",
-      "link": "https://www.thefarside.com/2024/3/30",
-      "updated": "2024-03-30T09:32:38Z",
-      "id": "https://www.thefarside.com/2024/3/30",
+      "title": "The Far Side comic 1 for March 31, 2024",
+      "link": "https://www.thefarside.com/2024/3/31",
+      "updated": "2024-03-31T09:33:09Z",
+      "id": "https://www.thefarside.com/2024/3/31",
       "summary": {
-        "img": "https://assets.amuniversal.com/18c9f870fa840137d52f005056a9545d",
-        "caption": "\n    “Say … now <i>there’s</i> a little hat!”\n  ",
-        "link": "https://www.thefarside.com/2024/03/30/0"
+        "img": "https://assets.amuniversal.com/ee4601df58c311ea8bf6005056a9",
+        "caption": "\n    Hopeful parents\n  ",
+        "link": "https://www.thefarside.com/2024/03/31/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 30, 2024",
-      "link": "https://www.thefarside.com/2024/3/30",
-      "updated": "2024-03-30T09:32:38Z",
-      "id": "https://www.thefarside.com/2024/3/30",
+      "title": "The Far Side comic 2 for March 31, 2024",
+      "link": "https://www.thefarside.com/2024/3/31",
+      "updated": "2024-03-31T09:33:09Z",
+      "id": "https://www.thefarside.com/2024/3/31",
       "summary": {
-        "img": "https://assets.amuniversal.com/8555fbf0cdd40137c56b005056a9545d",
-        "caption": "\n    “Okay, Billy. … Tide’s coming in now. … Dig me out, Billy. … Billy, I don’t want to get angry. …”\n  ",
-        "link": "https://www.thefarside.com/2024/03/30/1"
+        "img": "https://assets.amuniversal.com/ee46207258c311ea8bf6005056a9",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/03/31/1"
       }
     }
   ]
