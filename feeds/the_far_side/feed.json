@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-03-31T09:33:09Z",
+  "updated": "2024-04-01T09:32:54Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for March 31, 2024",
-      "link": "https://www.thefarside.com/2024/3/31",
-      "updated": "2024-03-31T09:33:09Z",
-      "id": "https://www.thefarside.com/2024/3/31",
+      "title": "The Far Side comic 1 for April 01, 2024",
+      "link": "https://www.thefarside.com/2024/4/1",
+      "updated": "2024-04-01T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/1",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee4601df58c311ea8bf6005056a9",
-        "caption": "\n    Hopeful parents\n  ",
-        "link": "https://www.thefarside.com/2024/03/31/0"
+        "img": "https://assets.amuniversal.com/c2be3770e92d0137cf47005056a9545d",
+        "caption": "\n    Theater of the gods\n  ",
+        "link": "https://www.thefarside.com/2024/04/01/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for March 31, 2024",
-      "link": "https://www.thefarside.com/2024/3/31",
-      "updated": "2024-03-31T09:33:09Z",
-      "id": "https://www.thefarside.com/2024/3/31",
+      "title": "The Far Side comic 2 for April 01, 2024",
+      "link": "https://www.thefarside.com/2024/4/1",
+      "updated": "2024-04-01T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/1",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee46207258c311ea8bf6005056a9",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/03/31/1"
+        "img": "https://assets.amuniversal.com/3472bed0cdd70137c56b005056a9545d",
+        "caption": "\n    Jungle-wise characters\n  ",
+        "link": "https://www.thefarside.com/2024/04/01/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for April 01, 2024",
+      "link": "https://www.thefarside.com/2024/4/1",
+      "updated": "2024-04-01T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/1",
+      "summary": {
+        "img": "https://assets.amuniversal.com/abac0c50d7410137c8a6005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/04/01/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for April 01, 2024",
+      "link": "https://www.thefarside.com/2024/4/1",
+      "updated": "2024-04-01T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/1",
+      "summary": {
+        "img": "https://assets.amuniversal.com/98ea2850dcc90137caaf005056a9545d",
+        "caption": "\n    Carl Sagan as a kid\n\n  ",
+        "link": "https://www.thefarside.com/2024/04/01/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for April 01, 2024",
+      "link": "https://www.thefarside.com/2024/4/1",
+      "updated": "2024-04-01T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/1",
+      "summary": {
+        "img": "https://assets.amuniversal.com/47354a303f3b013a8bea005056a9545d",
+        "caption": "\n    The young dog’s nightmare: premature mange\n  ",
+        "link": "https://www.thefarside.com/2024/04/01/4"
       }
     }
   ]
