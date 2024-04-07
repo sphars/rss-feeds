@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-04-06T09:32:42Z",
+  "updated": "2024-04-07T09:32:54Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for April 06, 2024",
-      "link": "https://www.thefarside.com/2024/4/6",
-      "updated": "2024-04-06T09:32:42Z",
-      "id": "https://www.thefarside.com/2024/4/6",
+      "title": "The Far Side comic 1 for April 07, 2024",
+      "link": "https://www.thefarside.com/2024/4/7",
+      "updated": "2024-04-07T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/7",
       "summary": {
-        "img": "https://assets.amuniversal.com/186d1e20fa850137d52f005056a9545d",
-        "caption": "\n    “Anytime, Slim.”\n\n  ",
-        "link": "https://www.thefarside.com/2024/04/06/0"
+        "img": "https://assets.amuniversal.com/ee46151e58c311ea8bf6005056a9",
+        "caption": "\n    For several hours, confusion reigned.\n  ",
+        "link": "https://www.thefarside.com/2024/04/07/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for April 06, 2024",
-      "link": "https://www.thefarside.com/2024/4/6",
-      "updated": "2024-04-06T09:32:42Z",
-      "id": "https://www.thefarside.com/2024/4/6",
+      "title": "The Far Side comic 2 for April 07, 2024",
+      "link": "https://www.thefarside.com/2024/4/7",
+      "updated": "2024-04-07T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/7",
       "summary": {
-        "img": "https://assets.amuniversal.com/fa2bb60002810138d7bb005056a9545d",
-        "caption": "\n    You never see it coming.\n  ",
-        "link": "https://www.thefarside.com/2024/04/06/1"
+        "img": "https://assets.amuniversal.com/ee46120858c311ea8bf6005056a9",
+        "caption": "\n    “Holy cow! What’s gotten into our La-Z-Boy?”\n  ",
+        "link": "https://www.thefarside.com/2024/04/07/1"
       }
     }
   ]
