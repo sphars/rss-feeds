@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-04-12T09:33:33Z",
+  "updated": "2024-04-13T09:32:43Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for April 12, 2024",
-      "link": "https://www.thefarside.com/2024/4/12",
-      "updated": "2024-04-12T09:33:33Z",
-      "id": "https://www.thefarside.com/2024/4/12",
+      "title": "The Far Side comic 1 for April 13, 2024",
+      "link": "https://www.thefarside.com/2024/4/13",
+      "updated": "2024-04-13T09:32:43Z",
+      "id": "https://www.thefarside.com/2024/4/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/39488af0d8ba0137c959005056a9545d",
-        "caption": "\n    “Oo! Icky icky! … Something just went down that surrrrrrre wasn’t plankton!”\n  ",
-        "link": "https://www.thefarside.com/2024/04/12/0"
+        "img": "https://assets.amuniversal.com/436cab20d3fc0137c79f005056a9545d",
+        "caption": "\n    Washington crossing the street\n  ",
+        "link": "https://www.thefarside.com/2024/04/13/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for April 12, 2024",
-      "link": "https://www.thefarside.com/2024/4/12",
-      "updated": "2024-04-12T09:33:33Z",
-      "id": "https://www.thefarside.com/2024/4/12",
+      "title": "The Far Side comic 2 for April 13, 2024",
+      "link": "https://www.thefarside.com/2024/4/13",
+      "updated": "2024-04-13T09:32:43Z",
+      "id": "https://www.thefarside.com/2024/4/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/374f9ae0df120137cbaf005056a9545d",
-        "caption": "\n    Early clock-watchers\n\n  ",
-        "link": "https://www.thefarside.com/2024/04/12/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for April 12, 2024",
-      "link": "https://www.thefarside.com/2024/4/12",
-      "updated": "2024-04-12T09:33:33Z",
-      "id": "https://www.thefarside.com/2024/4/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/03ace470e85a0137cedf005056a9545d",
-        "caption": "\n    Innovative concepts in exposing city kids to nature\n  ",
-        "link": "https://www.thefarside.com/2024/04/12/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for April 12, 2024",
-      "link": "https://www.thefarside.com/2024/4/12",
-      "updated": "2024-04-12T09:33:33Z",
-      "id": "https://www.thefarside.com/2024/4/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/b45c7300ea240137cfba005056a9545d",
-        "caption": "\n    “Well, I just feel like I’m living under a microscope.”\n\n  ",
-        "link": "https://www.thefarside.com/2024/04/12/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for April 12, 2024",
-      "link": "https://www.thefarside.com/2024/4/12",
-      "updated": "2024-04-12T09:33:33Z",
-      "id": "https://www.thefarside.com/2024/4/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/07ce71c0e9ef0137cf93005056a9545d",
-        "caption": "\n    Long before his show business career, he was known\nas <i>Mr.</i> Liberace, the wood-shop teacher.\n  ",
-        "link": "https://www.thefarside.com/2024/04/12/4"
+        "img": "https://assets.amuniversal.com/6f32f6e0ea250137cfba005056a9545d",
+        "caption": "\n    “Hey, Jim—go out for a short one!”\n\n  ",
+        "link": "https://www.thefarside.com/2024/04/13/1"
       }
     }
   ]
