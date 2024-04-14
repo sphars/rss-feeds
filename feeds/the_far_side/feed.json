@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-04-13T09:32:43Z",
+  "updated": "2024-04-14T11:27:34Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for April 13, 2024",
-      "link": "https://www.thefarside.com/2024/4/13",
-      "updated": "2024-04-13T09:32:43Z",
-      "id": "https://www.thefarside.com/2024/4/13",
+      "title": "The Far Side comic 1 for April 14, 2024",
+      "link": "https://www.thefarside.com/2024/4/14",
+      "updated": "2024-04-14T11:27:34Z",
+      "id": "https://www.thefarside.com/2024/4/14",
       "summary": {
-        "img": "https://assets.amuniversal.com/436cab20d3fc0137c79f005056a9545d",
-        "caption": "\n    Washington crossing the street\n  ",
-        "link": "https://www.thefarside.com/2024/04/13/0"
+        "img": "https://assets.amuniversal.com/da652140d7410137c8a6005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/04/14/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for April 13, 2024",
-      "link": "https://www.thefarside.com/2024/4/13",
-      "updated": "2024-04-13T09:32:43Z",
-      "id": "https://www.thefarside.com/2024/4/13",
+      "title": "The Far Side comic 2 for April 14, 2024",
+      "link": "https://www.thefarside.com/2024/4/14",
+      "updated": "2024-04-14T11:27:34Z",
+      "id": "https://www.thefarside.com/2024/4/14",
       "summary": {
-        "img": "https://assets.amuniversal.com/6f32f6e0ea250137cfba005056a9545d",
-        "caption": "\n    “Hey, Jim—go out for a short one!”\n\n  ",
-        "link": "https://www.thefarside.com/2024/04/13/1"
+        "img": "https://assets.amuniversal.com/ee45a42f58c311ea8bf6005056a9",
+        "caption": "\n    “Notice all the computations, theoretical scribblings, and lab equipment, Norm. … Yes, curiosity killed these cats.”\n  ",
+        "link": "https://www.thefarside.com/2024/04/14/1"
       }
     }
   ]
