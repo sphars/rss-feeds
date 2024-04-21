@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-04-20T09:33:06Z",
+  "updated": "2024-04-21T09:32:38Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for April 20, 2024",
-      "link": "https://www.thefarside.com/2024/4/20",
-      "updated": "2024-04-20T09:33:06Z",
-      "id": "https://www.thefarside.com/2024/4/20",
+      "title": "The Far Side comic 1 for April 21, 2024",
+      "link": "https://www.thefarside.com/2024/4/21",
+      "updated": "2024-04-21T09:32:38Z",
+      "id": "https://www.thefarside.com/2024/4/21",
       "summary": {
-        "img": "https://assets.amuniversal.com/196f4d30e92f0137cf47005056a9545d",
-        "caption": "\n    “Cornelius! I’ve been watching him! … Beware of the jawbone!”\n\n  ",
-        "link": "https://www.thefarside.com/2024/04/20/0"
+        "img": "https://assets.amuniversal.com/fec04090d8ba0137c959005056a9545d",
+        "caption": "\n    “Well, heaven knows what it is or where it came from—just get rid of it! But save that cheese first.”\n  ",
+        "link": "https://www.thefarside.com/2024/04/21/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for April 20, 2024",
-      "link": "https://www.thefarside.com/2024/4/20",
-      "updated": "2024-04-20T09:33:06Z",
-      "id": "https://www.thefarside.com/2024/4/20",
+      "title": "The Far Side comic 2 for April 21, 2024",
+      "link": "https://www.thefarside.com/2024/4/21",
+      "updated": "2024-04-21T09:32:38Z",
+      "id": "https://www.thefarside.com/2024/4/21",
       "summary": {
-        "img": "https://assets.amuniversal.com/7346f7d0d8bb0137c959005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/04/20/1"
+        "img": "https://assets.amuniversal.com/fdc3b6b0d1a40137c690005056a9545d",
+        "caption": "\n    How Mr. Ed was made to talk\n  ",
+        "link": "https://www.thefarside.com/2024/04/21/1"
       }
     }
   ]
