@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-04-28T09:34:17Z",
+  "updated": "2024-04-29T09:32:54Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for April 28, 2024",
-      "link": "https://www.thefarside.com/2024/4/28",
-      "updated": "2024-04-28T09:34:17Z",
-      "id": "https://www.thefarside.com/2024/4/28",
+      "title": "The Far Side comic 1 for April 29, 2024",
+      "link": "https://www.thefarside.com/2024/4/29",
+      "updated": "2024-04-29T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/116fa070cdd40137c56b005056a9545d",
-        "caption": "\n    “Well, you better get someone over here right away. … He really looks like he’s going to jump.”\n  ",
-        "link": "https://www.thefarside.com/2024/04/28/0"
+        "img": "https://assets.amuniversal.com/08dcf120df120137cbaf005056a9545d",
+        "caption": "\n    Volume five in a series\n  ",
+        "link": "https://www.thefarside.com/2024/04/29/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for April 28, 2024",
-      "link": "https://www.thefarside.com/2024/4/28",
-      "updated": "2024-04-28T09:34:17Z",
-      "id": "https://www.thefarside.com/2024/4/28",
+      "title": "The Far Side comic 2 for April 29, 2024",
+      "link": "https://www.thefarside.com/2024/4/29",
+      "updated": "2024-04-29T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee43185558c311ea8bf6005056a9",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/04/28/1"
+        "img": "https://assets.amuniversal.com/9252a4e0e9ee0137cf93005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/04/29/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for April 29, 2024",
+      "link": "https://www.thefarside.com/2024/4/29",
+      "updated": "2024-04-29T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/4b8e05e002810138d7bb005056a9545d",
+        "caption": "\n    On what was to be his last day on the job, Gus is caught asleep at the switch.\n  ",
+        "link": "https://www.thefarside.com/2024/04/29/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for April 29, 2024",
+      "link": "https://www.thefarside.com/2024/4/29",
+      "updated": "2024-04-29T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/f2f02410df0f0137cbaf005056a9545d",
+        "caption": "\n    Giraffe evolution\n\n  ",
+        "link": "https://www.thefarside.com/2024/04/29/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for April 29, 2024",
+      "link": "https://www.thefarside.com/2024/4/29",
+      "updated": "2024-04-29T09:32:54Z",
+      "id": "https://www.thefarside.com/2024/4/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/8319b040d8bb0137c959005056a9545d",
+        "caption": "\n    “Oh, Laaaaaarrrrrry … I think you should look up niiiiiice and eaaaaasy and see what’s right … over … your … head.”\n  ",
+        "link": "https://www.thefarside.com/2024/04/29/4"
       }
     }
   ]
