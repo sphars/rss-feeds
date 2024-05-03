@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-02T09:33:45Z",
+  "updated": "2024-05-03T09:32:56Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 02, 2024",
-      "link": "https://www.thefarside.com/2024/5/2",
-      "updated": "2024-05-02T09:33:45Z",
-      "id": "https://www.thefarside.com/2024/5/2",
+      "title": "The Far Side comic 1 for May 03, 2024",
+      "link": "https://www.thefarside.com/2024/5/3",
+      "updated": "2024-05-03T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/ac521580e85b0137cedf005056a9545d",
-        "caption": "\n    At the monthly meeting of Squidheads Anonymous\n  ",
-        "link": "https://www.thefarside.com/2024/05/02/0"
+        "img": "https://assets.amuniversal.com/37a873a03f3b013a8bea005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/05/03/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for May 02, 2024",
-      "link": "https://www.thefarside.com/2024/5/2",
-      "updated": "2024-05-02T09:33:45Z",
-      "id": "https://www.thefarside.com/2024/5/2",
+      "title": "The Far Side comic 2 for May 03, 2024",
+      "link": "https://www.thefarside.com/2024/5/3",
+      "updated": "2024-05-03T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee47ec3958c311ea8bf6005056a9",
+        "img": "https://assets.amuniversal.com/58603120e85c0137cedf005056a9545d",
+        "caption": "\n    Saving on transportation costs, some pioneers were known to head west on covered skates.\n  ",
+        "link": "https://www.thefarside.com/2024/05/03/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for May 03, 2024",
+      "link": "https://www.thefarside.com/2024/5/3",
+      "updated": "2024-05-03T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/3",
+      "summary": {
+        "img": "https://assets.amuniversal.com/a2d78470e92e0137cf47005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/02/1"
+        "link": "https://www.thefarside.com/2024/05/03/2"
       }
     },
     {
-      "title": "The Far Side comic 3 for May 02, 2024",
-      "link": "https://www.thefarside.com/2024/5/2",
-      "updated": "2024-05-02T09:33:45Z",
-      "id": "https://www.thefarside.com/2024/5/2",
+      "title": "The Far Side comic 4 for May 03, 2024",
+      "link": "https://www.thefarside.com/2024/5/3",
+      "updated": "2024-05-03T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/7c517470e92e0137cf47005056a9545d",
-        "caption": "\n    “Whoa whoa whoa, young man! You <i>walk</i> the plank like everyone else!”\n\n  ",
-        "link": "https://www.thefarside.com/2024/05/02/2"
+        "img": "https://assets.amuniversal.com/c01db570e85a0137cedf005056a9545d",
+        "caption": "\n    *Young urban scientist\n  ",
+        "link": "https://www.thefarside.com/2024/05/03/3"
       }
     },
     {
-      "title": "The Far Side comic 4 for May 02, 2024",
-      "link": "https://www.thefarside.com/2024/5/2",
-      "updated": "2024-05-02T09:33:45Z",
-      "id": "https://www.thefarside.com/2024/5/2",
+      "title": "The Far Side comic 5 for May 03, 2024",
+      "link": "https://www.thefarside.com/2024/5/3",
+      "updated": "2024-05-03T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/3",
       "summary": {
-        "img": "https://assets.amuniversal.com/ec116d90cdd40137c56b005056a9545d",
-        "caption": "\n    “No way! … This time <i>I</i> get the legs and thighs; <i>you</i> get the wings and back!”\n  ",
-        "link": "https://www.thefarside.com/2024/05/02/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for May 02, 2024",
-      "link": "https://www.thefarside.com/2024/5/2",
-      "updated": "2024-05-02T09:33:45Z",
-      "id": "https://www.thefarside.com/2024/5/2",
-      "summary": {
-        "img": "https://assets.amuniversal.com/dea64750fa850137d52f005056a9545d",
-        "caption": "\n    “Okay, McFadden. … So<i> that’s</i> the way you wanna play.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/02/4"
+        "img": "https://assets.amuniversal.com/198b9c20dccb0137caaf005056a9545d",
+        "caption": "\n    “Be back by suppertime, Hump. … And as always,\n you be careful!”&nbsp;\n  ",
+        "link": "https://www.thefarside.com/2024/05/03/4"
       }
     }
   ]
