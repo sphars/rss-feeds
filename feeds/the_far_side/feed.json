@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-04T09:33:07Z",
+  "updated": "2024-05-05T09:33:23Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 04, 2024",
-      "link": "https://www.thefarside.com/2024/5/4",
-      "updated": "2024-05-04T09:33:07Z",
-      "id": "https://www.thefarside.com/2024/5/4",
+      "title": "The Far Side comic 1 for May 05, 2024",
+      "link": "https://www.thefarside.com/2024/5/5",
+      "updated": "2024-05-05T09:33:23Z",
+      "id": "https://www.thefarside.com/2024/5/5",
       "summary": {
-        "img": "https://assets.amuniversal.com/58c2ea30cdd20137c56b005056a9545d",
-        "caption": "\n    “Of course I never eat the shells.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/04/0"
+        "img": "https://assets.amuniversal.com/ee47eb6758c311ea8bf6005056a9",
+        "caption": "\n    “Oh, please, oh, please, Dad! … The little brown one!”\n  ",
+        "link": "https://www.thefarside.com/2024/05/05/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for May 04, 2024",
-      "link": "https://www.thefarside.com/2024/5/4",
-      "updated": "2024-05-04T09:33:07Z",
-      "id": "https://www.thefarside.com/2024/5/4",
+      "title": "The Far Side comic 2 for May 05, 2024",
+      "link": "https://www.thefarside.com/2024/5/5",
+      "updated": "2024-05-05T09:33:23Z",
+      "id": "https://www.thefarside.com/2024/5/5",
       "summary": {
-        "img": "https://assets.amuniversal.com/f9ebf7c0d7400137c8a6005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/04/1"
+        "img": "https://assets.amuniversal.com/ee48116d58c311ea8bf6005056a9",
+        "caption": "\n    The Blob family at home\n  ",
+        "link": "https://www.thefarside.com/2024/05/05/1"
       }
     }
   ]
