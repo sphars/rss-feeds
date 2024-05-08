@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-07T09:32:49Z",
+  "updated": "2024-05-08T09:32:56Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 07, 2024",
-      "link": "https://www.thefarside.com/2024/5/7",
-      "updated": "2024-05-07T09:32:49Z",
-      "id": "https://www.thefarside.com/2024/5/7",
+      "title": "The Far Side comic 1 for May 08, 2024",
+      "link": "https://www.thefarside.com/2024/5/8",
+      "updated": "2024-05-08T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/8",
       "summary": {
-        "img": "https://assets.amuniversal.com/85ea1480b6000137bc4b005056a9545d",
-        "caption": "\n    “And notice, gentlemen, the faster I go, the more Simmons sounds like a motorboat.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/07/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for May 07, 2024",
-      "link": "https://www.thefarside.com/2024/5/7",
-      "updated": "2024-05-07T09:32:49Z",
-      "id": "https://www.thefarside.com/2024/5/7",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ee42f29b58c311ea8bf6005056a9",
-        "caption": "\n    “God, Collings, I hate to start a Monday with a case like this.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/07/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for May 07, 2024",
-      "link": "https://www.thefarside.com/2024/5/7",
-      "updated": "2024-05-07T09:32:49Z",
-      "id": "https://www.thefarside.com/2024/5/7",
-      "summary": {
-        "img": "https://assets.amuniversal.com/7b6fe2d0c4660137c1f8005056a9545d",
+        "img": "https://assets.amuniversal.com/2dc574b0d0f70137c652005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/07/2"
+        "link": "https://www.thefarside.com/2024/05/08/0"
       }
     },
     {
-      "title": "The Far Side comic 4 for May 07, 2024",
-      "link": "https://www.thefarside.com/2024/5/7",
-      "updated": "2024-05-07T09:32:49Z",
-      "id": "https://www.thefarside.com/2024/5/7",
+      "title": "The Far Side comic 2 for May 08, 2024",
+      "link": "https://www.thefarside.com/2024/5/8",
+      "updated": "2024-05-08T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/8",
       "summary": {
-        "img": "https://assets.amuniversal.com/2815b33002820138d7bb005056a9545d",
-        "caption": "\n    History shmistory\n  ",
-        "link": "https://www.thefarside.com/2024/05/07/3"
+        "img": "https://assets.amuniversal.com/ee43285358c311ea8bf6005056a9",
+        "caption": "\n    “There goes Williams again … trying to win support for his Little Bang theory.”\n  ",
+        "link": "https://www.thefarside.com/2024/05/08/1"
       }
     },
     {
-      "title": "The Far Side comic 5 for May 07, 2024",
-      "link": "https://www.thefarside.com/2024/5/7",
-      "updated": "2024-05-07T09:32:49Z",
-      "id": "https://www.thefarside.com/2024/5/7",
+      "title": "The Far Side comic 3 for May 08, 2024",
+      "link": "https://www.thefarside.com/2024/5/8",
+      "updated": "2024-05-08T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/8",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee42f43958c311ea8bf6005056a9",
+        "img": "https://assets.amuniversal.com/24221f40c1890137c0cc005056a9545d",
+        "caption": "\n    “Think about it, Ed. … The class Insecta contains 26 orders, almost 1,000 families, and over 750,000 described species—but I can’t shake the feeling we’re all just a bunch of bugs.”\n  ",
+        "link": "https://www.thefarside.com/2024/05/08/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for May 08, 2024",
+      "link": "https://www.thefarside.com/2024/5/8",
+      "updated": "2024-05-08T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/8",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee47f90558c311ea8bf6005056a9",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/07/4"
+        "link": "https://www.thefarside.com/2024/05/08/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for May 08, 2024",
+      "link": "https://www.thefarside.com/2024/5/8",
+      "updated": "2024-05-08T09:32:56Z",
+      "id": "https://www.thefarside.com/2024/5/8",
+      "summary": {
+        "img": "https://assets.amuniversal.com/e9216280fa830137d52f005056a9545d",
+        "caption": "\n    &nbsp;“Wait! Wait! Cancel that. … I guess it says ‘helf.’”\n  ",
+        "link": "https://www.thefarside.com/2024/05/08/4"
       }
     }
   ]
