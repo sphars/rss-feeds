@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-12T09:33:09Z",
+  "updated": "2024-05-13T09:34:22Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 12, 2024",
-      "link": "https://www.thefarside.com/2024/5/12",
-      "updated": "2024-05-12T09:33:09Z",
-      "id": "https://www.thefarside.com/2024/5/12",
+      "title": "The Far Side comic 1 for May 13, 2024",
+      "link": "https://www.thefarside.com/2024/5/13",
+      "updated": "2024-05-13T09:34:22Z",
+      "id": "https://www.thefarside.com/2024/5/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/ec58caf0fa840137d52f005056a9545d",
-        "caption": "\n    “Well, Frank’s hoping for a male and I’d like a little female. … But, really, we’ll both be happy if it just has six eyes and eight legs.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/12/0"
+        "img": "https://assets.amuniversal.com/ee47fa8058c311ea8bf6005056a9",
+        "caption": "\n    Math phobic’s nightmare\n  ",
+        "link": "https://www.thefarside.com/2024/05/13/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for May 12, 2024",
-      "link": "https://www.thefarside.com/2024/5/12",
-      "updated": "2024-05-12T09:33:09Z",
-      "id": "https://www.thefarside.com/2024/5/12",
+      "title": "The Far Side comic 2 for May 13, 2024",
+      "link": "https://www.thefarside.com/2024/5/13",
+      "updated": "2024-05-13T09:34:22Z",
+      "id": "https://www.thefarside.com/2024/5/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/6ad86f30e9ee0137cf93005056a9545d",
-        "caption": "\n    “No, really, Mom—who do you like best?”\n  ",
-        "link": "https://www.thefarside.com/2024/05/12/1"
+        "img": "https://assets.amuniversal.com/bff48d80d0c40137c631005056a9545d",
+        "caption": "\n    “One more thing, young man. You get my daughter home before sunrise—I don’t want you coming back here with a pile of dried bones!”\n  ",
+        "link": "https://www.thefarside.com/2024/05/13/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for May 13, 2024",
+      "link": "https://www.thefarside.com/2024/5/13",
+      "updated": "2024-05-13T09:34:22Z",
+      "id": "https://www.thefarside.com/2024/5/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/cff76cf0cea10137c5c3005056a9545d",
+        "caption": "\n    “Say … what’s a mountain goat doing way up here in a cloud bank?”\n  ",
+        "link": "https://www.thefarside.com/2024/05/13/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for May 13, 2024",
+      "link": "https://www.thefarside.com/2024/5/13",
+      "updated": "2024-05-13T09:34:22Z",
+      "id": "https://www.thefarside.com/2024/5/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/0dce7680ea250137cfba005056a9545d",
+        "caption": "\n    “Oh, Professor DeWitt! Have you seen Professor&nbsp;<i>Weinberg’s</i> time machine? … It’s digital!”\n  ",
+        "link": "https://www.thefarside.com/2024/05/13/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for May 13, 2024",
+      "link": "https://www.thefarside.com/2024/5/13",
+      "updated": "2024-05-13T09:34:22Z",
+      "id": "https://www.thefarside.com/2024/5/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee43063358c311ea8bf6005056a9",
+        "caption": "\n    The conversation had been brisk and pleasant when, suddenly and simultaneously, everyone just got dog tired.\n  ",
+        "link": "https://www.thefarside.com/2024/05/13/4"
       }
     }
   ]
