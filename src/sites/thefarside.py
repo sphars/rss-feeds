@@ -12,6 +12,8 @@ class TheFarSide:
     def __init__(self, driver: Chrome, todays_date: datetime):
         self.driver = driver
         self.todays_date = todays_date
+        # day string should be YYYY/MM/DD
+        self.current_day_string = self.todays_date.strftime("%Y/%m/%d")
 
     # def write_image(self, filepath, img):
     #     os.makedirs(os.path.dirname(filepath), exist_ok=True)
@@ -19,16 +21,14 @@ class TheFarSide:
     #         f.write(requests.get(img).content)
 
     def get_comics(self):
-        # day string should be YYYY/MM/DD
-        current_day_string = self.todays_date.strftime("%Y/%m/%d")
-        far_side_url = f"https://www.thefarside.com/{current_day_string}"
+        far_side_url = f"https://www.thefarside.com/{self.current_day_string}"
         
         self.driver.get(far_side_url)
         self.driver.implicitly_wait(5)
 
         comic_cards = self.driver.find_elements(By.XPATH, "//div[@data-position]")
         if comic_cards:
-            print(f"[The Far Side] Found {len(comic_cards)} comic cards for {current_day_string}")
+            print(f"[The Far Side] Found {len(comic_cards)} comic cards for {self.current_day_string}")
             
             # the final list of comics
             comics = []
@@ -69,9 +69,9 @@ class TheFarSide:
             for index, comic in enumerate(self.comics):
                 entry = {
                     "title": f"The Far Side comic {index + 1} for {self.todays_date.strftime('%B %d, %Y')}",
-                    "link": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
+                    "link": f"https://www.thefarside.com/{self.current_day_string}",
                     "updated": f"{self.todays_date.replace(microsecond=0).isoformat()}Z",
-                    "id": f"https://www.thefarside.com/{self.todays_date.year}/{self.todays_date.month}/{self.todays_date.day}",
+                    "id": f"https://www.thefarside.com/{self.current_day_string}",
                     "summary": {
                         "img": comic["image"],
                         "caption": comic["caption"],
