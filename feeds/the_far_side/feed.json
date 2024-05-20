@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-19T15:15:06Z",
+  "updated": "2024-05-20T15:16:53Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 19, 2024",
-      "link": "https://www.thefarside.com/2024/05/19",
-      "updated": "2024-05-19T15:15:06Z",
-      "id": "https://www.thefarside.com/2024/05/19",
+      "title": "The Far Side comic 1 for May 20, 2024",
+      "link": "https://www.thefarside.com/2024/05/20",
+      "updated": "2024-05-20T15:16:53Z",
+      "id": "https://www.thefarside.com/2024/05/20",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee45a86758c311ea8bf6005056a9",
-        "caption": "\n    “You have to prime it, you know.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/19/0"
+        "img": "https://assets.amuniversal.com/265eeb30e6f80137ce50005056a9545d",
+        "caption": "\n    The bozone layer: shielding the rest of the solar system from the Earth’s harmful effects.\n  ",
+        "link": "https://www.thefarside.com/2024/05/20/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for May 19, 2024",
-      "link": "https://www.thefarside.com/2024/05/19",
-      "updated": "2024-05-19T15:15:06Z",
-      "id": "https://www.thefarside.com/2024/05/19",
+      "title": "The Far Side comic 2 for May 20, 2024",
+      "link": "https://www.thefarside.com/2024/05/20",
+      "updated": "2024-05-20T15:16:53Z",
+      "id": "https://www.thefarside.com/2024/05/20",
       "summary": {
-        "img": "https://assets.amuniversal.com/545205c0cdd30137c56b005056a9545d",
-        "caption": "\n    “So … you wanna sell our pencils, do you?”\n  ",
-        "link": "https://www.thefarside.com/2024/05/19/1"
+        "img": "https://assets.amuniversal.com/ee4605a158c311ea8bf6005056a9",
+        "caption": "\n    “Oh, yeah? Well, I’d rather be a living corpse made from dismembered body parts than a hunchbacked little grave robber like you!”\n  ",
+        "link": "https://www.thefarside.com/2024/05/20/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for May 20, 2024",
+      "link": "https://www.thefarside.com/2024/05/20",
+      "updated": "2024-05-20T15:16:53Z",
+      "id": "https://www.thefarside.com/2024/05/20",
+      "summary": {
+        "img": "https://assets.amuniversal.com/0bbef4d0df120137cbaf005056a9545d",
+        "caption": "\n    God as a kid tries to make a chicken in his room.\n  ",
+        "link": "https://www.thefarside.com/2024/05/20/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for May 20, 2024",
+      "link": "https://www.thefarside.com/2024/05/20",
+      "updated": "2024-05-20T15:16:53Z",
+      "id": "https://www.thefarside.com/2024/05/20",
+      "summary": {
+        "img": "https://assets.amuniversal.com/0b240bc0cdd40137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/05/20/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for May 20, 2024",
+      "link": "https://www.thefarside.com/2024/05/20",
+      "updated": "2024-05-20T15:16:53Z",
+      "id": "https://www.thefarside.com/2024/05/20",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee45863c58c311ea8bf6005056a9",
+        "caption": "\n    “Calm down, Edna. … Yes, it’s some giant, hideous insect … but it could be some giant, hideous insect in need of help.”\n  ",
+        "link": "https://www.thefarside.com/2024/05/20/4"
       }
     }
   ]
