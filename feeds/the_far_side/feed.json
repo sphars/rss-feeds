@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-05-24T15:17:09Z",
+  "updated": "2024-05-25T15:15:47Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for May 24, 2024",
-      "link": "https://www.thefarside.com/2024/05/24",
-      "updated": "2024-05-24T15:17:09Z",
-      "id": "https://www.thefarside.com/2024/05/24",
+      "title": "The Far Side comic 1 for May 25, 2024",
+      "link": "https://www.thefarside.com/2024/05/25",
+      "updated": "2024-05-25T15:15:47Z",
+      "id": "https://www.thefarside.com/2024/05/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/d4d7c7c0fd9d0137d60f005056a9545d",
-        "caption": "\n    “Don’t encourage him, Sylvia.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/24/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for May 24, 2024",
-      "link": "https://www.thefarside.com/2024/05/24",
-      "updated": "2024-05-24T15:17:09Z",
-      "id": "https://www.thefarside.com/2024/05/24",
-      "summary": {
-        "img": "https://assets.amuniversal.com/3dcbe3e0cdd50137c56b005056a9545d",
-        "caption": "\n    “Now stay calm. … Let’s hear what they said to Bill.”\n  ",
-        "link": "https://www.thefarside.com/2024/05/24/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for May 24, 2024",
-      "link": "https://www.thefarside.com/2024/05/24",
-      "updated": "2024-05-24T15:17:09Z",
-      "id": "https://www.thefarside.com/2024/05/24",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ee433f3958c311ea8bf6005056a9",
+        "img": "https://assets.amuniversal.com/ee45777f58c311ea8bf6005056a9",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/24/2"
+        "link": "https://www.thefarside.com/2024/05/25/0"
       }
     },
     {
-      "title": "The Far Side comic 4 for May 24, 2024",
-      "link": "https://www.thefarside.com/2024/05/24",
-      "updated": "2024-05-24T15:17:09Z",
-      "id": "https://www.thefarside.com/2024/05/24",
+      "title": "The Far Side comic 2 for May 25, 2024",
+      "link": "https://www.thefarside.com/2024/05/25",
+      "updated": "2024-05-25T15:15:47Z",
+      "id": "https://www.thefarside.com/2024/05/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/c3a46470d19e0137c68e005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/05/24/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for May 24, 2024",
-      "link": "https://www.thefarside.com/2024/05/24",
-      "updated": "2024-05-24T15:17:09Z",
-      "id": "https://www.thefarside.com/2024/05/24",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ee45da1958c311ea8bf6005056a9",
-        "caption": "\n    Superman in his later years\n  ",
-        "link": "https://www.thefarside.com/2024/05/24/4"
+        "img": "https://assets.amuniversal.com/da4d6240e3ae0137cd49005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/05/25/1"
       }
     }
   ]
