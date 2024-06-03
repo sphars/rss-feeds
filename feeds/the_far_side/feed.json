@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-02T15:14:55Z",
+  "updated": "2024-06-03T15:17:36Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 02, 2024",
-      "link": "https://www.thefarside.com/2024/06/02",
-      "updated": "2024-06-02T15:14:55Z",
-      "id": "https://www.thefarside.com/2024/06/02",
+      "title": "The Far Side comic 1 for June 03, 2024",
+      "link": "https://www.thefarside.com/2024/06/03",
+      "updated": "2024-06-03T15:17:36Z",
+      "id": "https://www.thefarside.com/2024/06/03",
       "summary": {
-        "img": "https://assets.amuniversal.com/60c9fb30cdd20137c56b005056a9545d",
-        "caption": "\n    “Egad! … What a hideous creature!”\n  ",
-        "link": "https://www.thefarside.com/2024/06/02/0"
+        "img": "https://assets.amuniversal.com/fc9e4830cdd50137c56b005056a9545d",
+        "caption": "\n    “Now wait just a minute here. … How are we supposed to know you’re the <i>real</i> Angel of Death?”\n  ",
+        "link": "https://www.thefarside.com/2024/06/03/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 02, 2024",
-      "link": "https://www.thefarside.com/2024/06/02",
-      "updated": "2024-06-02T15:14:55Z",
-      "id": "https://www.thefarside.com/2024/06/02",
+      "title": "The Far Side comic 2 for June 03, 2024",
+      "link": "https://www.thefarside.com/2024/06/03",
+      "updated": "2024-06-03T15:17:36Z",
+      "id": "https://www.thefarside.com/2024/06/03",
       "summary": {
-        "img": "https://assets.amuniversal.com/dec73670e8590137cedf005056a9545d",
-        "caption": "\n    God makes the snake.\n  ",
-        "link": "https://www.thefarside.com/2024/06/02/1"
+        "img": "https://assets.amuniversal.com/46c6d130e9ef0137cf93005056a9545d",
+        "caption": "\n    Ironically, Barnum’s and Bailey’s respective kids—Sid and Marty—both ran away one night to join corporate America.\n  ",
+        "link": "https://www.thefarside.com/2024/06/03/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for June 03, 2024",
+      "link": "https://www.thefarside.com/2024/06/03",
+      "updated": "2024-06-03T15:17:36Z",
+      "id": "https://www.thefarside.com/2024/06/03",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee480aad58c311ea8bf6005056a9",
+        "caption": "\n    New Age construction workers\n  ",
+        "link": "https://www.thefarside.com/2024/06/03/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for June 03, 2024",
+      "link": "https://www.thefarside.com/2024/06/03",
+      "updated": "2024-06-03T15:17:36Z",
+      "id": "https://www.thefarside.com/2024/06/03",
+      "summary": {
+        "img": "https://assets.amuniversal.com/110c06d0c1890137c0cc005056a9545d",
+        "caption": "\n    “Whoa! <i>That</i> was a good one! Try it, Hobbs—just poke his brain right where my finger is.”\n  ",
+        "link": "https://www.thefarside.com/2024/06/03/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for June 03, 2024",
+      "link": "https://www.thefarside.com/2024/06/03",
+      "updated": "2024-06-03T15:17:36Z",
+      "id": "https://www.thefarside.com/2024/06/03",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee432cc058c311ea8bf6005056a9",
+        "caption": "\n    “Get ’em up there!”\n  ",
+        "link": "https://www.thefarside.com/2024/06/03/4"
       }
     }
   ]
