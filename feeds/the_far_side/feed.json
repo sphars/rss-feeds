@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-08T15:16:34Z",
+  "updated": "2024-06-09T15:15:36Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 08, 2024",
-      "link": "https://www.thefarside.com/2024/06/08",
-      "updated": "2024-06-08T15:16:34Z",
-      "id": "https://www.thefarside.com/2024/06/08",
+      "title": "The Far Side comic 1 for June 09, 2024",
+      "link": "https://www.thefarside.com/2024/06/09",
+      "updated": "2024-06-09T15:15:36Z",
+      "id": "https://www.thefarside.com/2024/06/09",
       "summary": {
-        "img": "https://assets.amuniversal.com/911f4c10fa850137d52f005056a9545d",
-        "caption": "\n    Primitive UFOs\n  ",
-        "link": "https://www.thefarside.com/2024/06/08/0"
+        "img": "https://assets.amuniversal.com/2d13c1f0dccb0137caaf005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/06/09/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 08, 2024",
-      "link": "https://www.thefarside.com/2024/06/08",
-      "updated": "2024-06-08T15:16:34Z",
-      "id": "https://www.thefarside.com/2024/06/08",
+      "title": "The Far Side comic 2 for June 09, 2024",
+      "link": "https://www.thefarside.com/2024/06/09",
+      "updated": "2024-06-09T15:15:36Z",
+      "id": "https://www.thefarside.com/2024/06/09",
       "summary": {
-        "img": "https://assets.amuniversal.com/e231e000cdd20137c56b005056a9545d",
-        "caption": "\n    “So! You’ve been buzzing around the living room again, haven’t you?”\n  ",
-        "link": "https://www.thefarside.com/2024/06/08/1"
+        "img": "https://assets.amuniversal.com/ee461fc358c311ea8bf6005056a9",
+        "caption": "\n    “I can’t stand it. … They’re so <i>cute</i> when they sit like that.”\n  ",
+        "link": "https://www.thefarside.com/2024/06/09/1"
       }
     }
   ]
