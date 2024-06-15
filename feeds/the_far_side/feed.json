@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-14T15:18:44Z",
+  "updated": "2024-06-15T15:16:49Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 14, 2024",
-      "link": "https://www.thefarside.com/2024/06/14",
-      "updated": "2024-06-14T15:18:44Z",
-      "id": "https://www.thefarside.com/2024/06/14",
+      "title": "The Far Side comic 1 for June 15, 2024",
+      "link": "https://www.thefarside.com/2024/06/15",
+      "updated": "2024-06-15T15:16:49Z",
+      "id": "https://www.thefarside.com/2024/06/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/f27219e0cea10137c5c3005056a9545d",
-        "caption": "\n    “So, Foster! That’s how you want it, huh? … Then take THIS!”\n  ",
-        "link": "https://www.thefarside.com/2024/06/14/0"
+        "img": "https://assets.amuniversal.com/ee45966f58c311ea8bf6005056a9",
+        "caption": "\n    Grog Schwartz eats some bad beetle grubs, and the art of dance is born.\n  ",
+        "link": "https://www.thefarside.com/2024/06/15/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 14, 2024",
-      "link": "https://www.thefarside.com/2024/06/14",
-      "updated": "2024-06-14T15:18:44Z",
-      "id": "https://www.thefarside.com/2024/06/14",
+      "title": "The Far Side comic 2 for June 15, 2024",
+      "link": "https://www.thefarside.com/2024/06/15",
+      "updated": "2024-06-15T15:16:49Z",
+      "id": "https://www.thefarside.com/2024/06/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/74629a40d28b0137c712005056a9545d",
-        "caption": "\n    “Oh, Thak! You’ve done it! … If only we had a camera—but, of course, I’m getting ahead of myself.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/14/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for June 14, 2024",
-      "link": "https://www.thefarside.com/2024/06/14",
-      "updated": "2024-06-14T15:18:44Z",
-      "id": "https://www.thefarside.com/2024/06/14",
-      "summary": {
-        "img": "https://assets.amuniversal.com/058c2bc0d0f70137c652005056a9545d",
-        "caption": "\n    “Now remember, Cory, show us that you can take good care of these little fellows and maybe next year we’ll get you\nthat puppy.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/14/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for June 14, 2024",
-      "link": "https://www.thefarside.com/2024/06/14",
-      "updated": "2024-06-14T15:18:44Z",
-      "id": "https://www.thefarside.com/2024/06/14",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ee45ff0458c311ea8bf6005056a9",
-        "caption": "\n    Morning in the crypt\n  ",
-        "link": "https://www.thefarside.com/2024/06/14/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for June 14, 2024",
-      "link": "https://www.thefarside.com/2024/06/14",
-      "updated": "2024-06-14T15:18:44Z",
-      "id": "https://www.thefarside.com/2024/06/14",
-      "summary": {
-        "img": "https://assets.amuniversal.com/226b2960fa880137d531005056a9545d",
-        "caption": "\n    “Say. … It’s only a <i>paper</i> moon.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/14/4"
+        "img": "https://assets.amuniversal.com/f3ccdc50fa840137d52f005056a9545d",
+        "caption": "\n    “Hey, Norton! … Ain’t that your dog attackin’ the president?”\n  ",
+        "link": "https://www.thefarside.com/2024/06/15/1"
       }
     }
   ]
