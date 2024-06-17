@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-16T15:16:54Z",
+  "updated": "2024-06-17T15:18:31Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 16, 2024",
-      "link": "https://www.thefarside.com/2024/06/16",
-      "updated": "2024-06-16T15:16:54Z",
-      "id": "https://www.thefarside.com/2024/06/16",
+      "title": "The Far Side comic 1 for June 17, 2024",
+      "link": "https://www.thefarside.com/2024/06/17",
+      "updated": "2024-06-17T15:18:31Z",
+      "id": "https://www.thefarside.com/2024/06/17",
       "summary": {
-        "img": "https://assets.amuniversal.com/ab93c870fa850137d52f005056a9545d",
-        "caption": "\n    “Sorry, kids—they’ve got cable, but no pond.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/16/0"
+        "img": "https://assets.amuniversal.com/d8cd8940cea10137c5c3005056a9545d",
+        "caption": "\n    Another great moment in evolution\n  ",
+        "link": "https://www.thefarside.com/2024/06/17/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 16, 2024",
-      "link": "https://www.thefarside.com/2024/06/16",
-      "updated": "2024-06-16T15:16:54Z",
-      "id": "https://www.thefarside.com/2024/06/16",
+      "title": "The Far Side comic 2 for June 17, 2024",
+      "link": "https://www.thefarside.com/2024/06/17",
+      "updated": "2024-06-17T15:18:31Z",
+      "id": "https://www.thefarside.com/2024/06/17",
       "summary": {
-        "img": "https://assets.amuniversal.com/4fc140b0fa840137d52f005056a9545d",
-        "caption": "\n    “Come on, baby ... one grunt for Daddy ...\none grunt for Daddy.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/16/1"
+        "img": "https://assets.amuniversal.com/db696db002800138d7bb005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/06/17/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for June 17, 2024",
+      "link": "https://www.thefarside.com/2024/06/17",
+      "updated": "2024-06-17T15:18:31Z",
+      "id": "https://www.thefarside.com/2024/06/17",
+      "summary": {
+        "img": "https://assets.amuniversal.com/45597e90cdd60137c56b005056a9545d",
+        "caption": "\n    “Quick! ... Run up and tell Him we found them!”\n  ",
+        "link": "https://www.thefarside.com/2024/06/17/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for June 17, 2024",
+      "link": "https://www.thefarside.com/2024/06/17",
+      "updated": "2024-06-17T15:18:31Z",
+      "id": "https://www.thefarside.com/2024/06/17",
+      "summary": {
+        "img": "https://assets.amuniversal.com/5269c3d0cdd50137c56b005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/06/17/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for June 17, 2024",
+      "link": "https://www.thefarside.com/2024/06/17",
+      "updated": "2024-06-17T15:18:31Z",
+      "id": "https://www.thefarside.com/2024/06/17",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee4597f558c311ea8bf6005056a9",
+        "caption": "\n    “Quit complaining and eat it! … Number one, chicken soup is good for the flu, and number two, it’s nobody we know.”\n  ",
+        "link": "https://www.thefarside.com/2024/06/17/4"
       }
     }
   ]
