@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-21T15:22:40Z",
+  "updated": "2024-06-22T15:16:27Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 21, 2024",
-      "link": "https://www.thefarside.com/2024/06/21",
-      "updated": "2024-06-21T15:22:40Z",
-      "id": "https://www.thefarside.com/2024/06/21",
+      "title": "The Far Side comic 1 for June 22, 2024",
+      "link": "https://www.thefarside.com/2024/06/22",
+      "updated": "2024-06-22T15:16:27Z",
+      "id": "https://www.thefarside.com/2024/06/22",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee45b11858c311ea8bf6005056a9",
-        "caption": "\n    Canine social blunders\n  ",
-        "link": "https://www.thefarside.com/2024/06/21/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for June 21, 2024",
-      "link": "https://www.thefarside.com/2024/06/21",
-      "updated": "2024-06-21T15:22:40Z",
-      "id": "https://www.thefarside.com/2024/06/21",
-      "summary": {
-        "img": "https://assets.amuniversal.com/d284da20d0c40137c631005056a9545d",
-        "caption": "\n    The Great Nerd Drive of ’76\n  ",
-        "link": "https://www.thefarside.com/2024/06/21/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for June 21, 2024",
-      "link": "https://www.thefarside.com/2024/06/21",
-      "updated": "2024-06-21T15:22:40Z",
-      "id": "https://www.thefarside.com/2024/06/21",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ee45fcfe58c311ea8bf6005056a9",
-        "caption": "\n    “Beats me how they did it … I got the whole thing at a garage sale for five bucks—and that included the stand.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/21/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for June 21, 2024",
-      "link": "https://www.thefarside.com/2024/06/21",
-      "updated": "2024-06-21T15:22:40Z",
-      "id": "https://www.thefarside.com/2024/06/21",
-      "summary": {
-        "img": "https://assets.amuniversal.com/c90f12a0e8590137cedf005056a9545d",
-        "caption": "\n    It was over. But before the police could arrive, the rioting employees had already turned on one another, using the closest weapons at hand.\n\n  ",
-        "link": "https://www.thefarside.com/2024/06/21/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for June 21, 2024",
-      "link": "https://www.thefarside.com/2024/06/21",
-      "updated": "2024-06-21T15:22:40Z",
-      "id": "https://www.thefarside.com/2024/06/21",
-      "summary": {
-        "img": "https://assets.amuniversal.com/a2116410d0be0137c62c005056a9545d",
+        "img": "https://assets.amuniversal.com/b0fede40cdd20137c56b005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/06/21/4"
+        "link": "https://www.thefarside.com/2024/06/22/0"
+      }
+    },
+    {
+      "title": "The Far Side comic 2 for June 22, 2024",
+      "link": "https://www.thefarside.com/2024/06/22",
+      "updated": "2024-06-22T15:16:27Z",
+      "id": "https://www.thefarside.com/2024/06/22",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ee432f0258c311ea8bf6005056a9",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/06/22/1"
       }
     }
   ]
