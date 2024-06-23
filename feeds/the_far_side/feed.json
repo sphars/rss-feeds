@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-22T15:16:27Z",
+  "updated": "2024-06-23T15:15:19Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 22, 2024",
-      "link": "https://www.thefarside.com/2024/06/22",
-      "updated": "2024-06-22T15:16:27Z",
-      "id": "https://www.thefarside.com/2024/06/22",
+      "title": "The Far Side comic 1 for June 23, 2024",
+      "link": "https://www.thefarside.com/2024/06/23",
+      "updated": "2024-06-23T15:15:19Z",
+      "id": "https://www.thefarside.com/2024/06/23",
       "summary": {
-        "img": "https://assets.amuniversal.com/b0fede40cdd20137c56b005056a9545d",
+        "img": "https://assets.amuniversal.com/d58a2580fa840137d52f005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/06/22/0"
+        "link": "https://www.thefarside.com/2024/06/23/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 22, 2024",
-      "link": "https://www.thefarside.com/2024/06/22",
-      "updated": "2024-06-22T15:16:27Z",
-      "id": "https://www.thefarside.com/2024/06/22",
+      "title": "The Far Side comic 2 for June 23, 2024",
+      "link": "https://www.thefarside.com/2024/06/23",
+      "updated": "2024-06-23T15:15:19Z",
+      "id": "https://www.thefarside.com/2024/06/23",
       "summary": {
-        "img": "https://assets.amuniversal.com/ee432f0258c311ea8bf6005056a9",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/06/22/1"
+        "img": "https://assets.amuniversal.com/376d50d0d0f70137c652005056a9545d",
+        "caption": "\n    “Well, let’s see—so far, I’ve got rhythm and I’ve got music. … Actually, who could ask for anything more?”\n  ",
+        "link": "https://www.thefarside.com/2024/06/23/1"
       }
     }
   ]
