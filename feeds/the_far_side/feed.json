@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-29T15:15:14Z",
+  "updated": "2024-06-30T15:17:04Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 29, 2024",
-      "link": "https://www.thefarside.com/2024/06/29",
-      "updated": "2024-06-29T15:15:14Z",
-      "id": "https://www.thefarside.com/2024/06/29",
+      "title": "The Far Side comic 1 for June 30, 2024",
+      "link": "https://www.thefarside.com/2024/06/30",
+      "updated": "2024-06-30T15:17:04Z",
+      "id": "https://www.thefarside.com/2024/06/30",
       "summary": {
-        "img": "https://assets.amuniversal.com/6f8af6e0d0be0137c62c005056a9545d",
-        "caption": "\n    “What are you gonna tell your dad, Chuck?”\n  ",
-        "link": "https://www.thefarside.com/2024/06/29/0"
+        "img": "https://assets.amuniversal.com/671fd580fa850137d52f005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/06/30/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 29, 2024",
-      "link": "https://www.thefarside.com/2024/06/29",
-      "updated": "2024-06-29T15:15:14Z",
-      "id": "https://www.thefarside.com/2024/06/29",
+      "title": "The Far Side comic 2 for June 30, 2024",
+      "link": "https://www.thefarside.com/2024/06/30",
+      "updated": "2024-06-30T15:17:04Z",
+      "id": "https://www.thefarside.com/2024/06/30",
       "summary": {
-        "img": "https://assets.amuniversal.com/74805ea0d0ea0137c64d005056a9545d",
-        "caption": "\n    “I’ve warned you kids about this—now I’m gonna straighten you out once and for all.”\n  ",
-        "link": "https://www.thefarside.com/2024/06/29/1"
+        "img": "https://assets.amuniversal.com/b6d21c50df110137cbaf005056a9545d",
+        "caption": "\n    Cattle hustler\n  ",
+        "link": "https://www.thefarside.com/2024/06/30/1"
       }
     }
   ]
