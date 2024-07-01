@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-06-30T15:17:04Z",
+  "updated": "2024-07-01T15:17:07Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for June 30, 2024",
-      "link": "https://www.thefarside.com/2024/06/30",
-      "updated": "2024-06-30T15:17:04Z",
-      "id": "https://www.thefarside.com/2024/06/30",
+      "title": "The Far Side comic 1 for July 01, 2024",
+      "link": "https://www.thefarside.com/2024/07/01",
+      "updated": "2024-07-01T15:17:07Z",
+      "id": "https://www.thefarside.com/2024/07/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/671fd580fa850137d52f005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/06/30/0"
+        "img": "https://assets.amuniversal.com/6fbd5550cdd60137c56b005056a9545d",
+        "caption": "\n    After 23 uneventful years at the zoo’s snakehouse,\ncurator Ernie Schwartz has a cumulative attack of\nthe willies.\n  ",
+        "link": "https://www.thefarside.com/2024/07/01/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for June 30, 2024",
-      "link": "https://www.thefarside.com/2024/06/30",
-      "updated": "2024-06-30T15:17:04Z",
-      "id": "https://www.thefarside.com/2024/06/30",
+      "title": "The Far Side comic 2 for July 01, 2024",
+      "link": "https://www.thefarside.com/2024/07/01",
+      "updated": "2024-07-01T15:17:07Z",
+      "id": "https://www.thefarside.com/2024/07/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/b6d21c50df110137cbaf005056a9545d",
-        "caption": "\n    Cattle hustler\n  ",
-        "link": "https://www.thefarside.com/2024/06/30/1"
+        "img": "https://assets.amuniversal.com/b7214df0dcca0137caaf005056a9545d",
+        "caption": "\n    Tarzan is greeted by the Parakeet People.\n  ",
+        "link": "https://www.thefarside.com/2024/07/01/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for July 01, 2024",
+      "link": "https://www.thefarside.com/2024/07/01",
+      "updated": "2024-07-01T15:17:07Z",
+      "id": "https://www.thefarside.com/2024/07/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/20c1d3a0d35f0137c76e005056a9545d",
+        "caption": "\n    “On the other hand, gentlemen, what if we gave a war and <i>everybody</i> came?”\n  ",
+        "link": "https://www.thefarside.com/2024/07/01/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for July 01, 2024",
+      "link": "https://www.thefarside.com/2024/07/01",
+      "updated": "2024-07-01T15:17:07Z",
+      "id": "https://www.thefarside.com/2024/07/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/b8f58520e6f80137ce50005056a9545d",
+        "caption": "\n    \"Well, like I said, a mammoth shouldn’t be allowed in the cave to begin with—but installing a swinging door was just plain crazy!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/01/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for July 01, 2024",
+      "link": "https://www.thefarside.com/2024/07/01",
+      "updated": "2024-07-01T15:17:07Z",
+      "id": "https://www.thefarside.com/2024/07/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/c0b4ed60df100137cbaf005056a9545d",
+        "caption": "\n    “Hold it right there, Frank! … If you’re gonna shake, you do it in another room!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/01/4"
       }
     }
   ]
