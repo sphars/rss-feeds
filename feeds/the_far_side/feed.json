@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-05T15:17:43Z",
+  "updated": "2024-07-06T15:16:55Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 05, 2024",
-      "link": "https://www.thefarside.com/2024/07/05",
-      "updated": "2024-07-05T15:17:43Z",
-      "id": "https://www.thefarside.com/2024/07/05",
+      "title": "The Far Side comic 1 for July 06, 2024",
+      "link": "https://www.thefarside.com/2024/07/06",
+      "updated": "2024-07-06T15:16:55Z",
+      "id": "https://www.thefarside.com/2024/07/06",
       "summary": {
-        "img": "https://assets.amuniversal.com/ffa3aa30e4850137cda5005056a9545d",
-        "caption": "\n    “I’m coming! I’m coming! … Keep your skin on!”\n  ",
-        "link": "https://www.thefarside.com/2024/07/05/0"
+        "img": "https://assets.amuniversal.com/7e88aa60d7400137c8a6005056a9545d",
+        "caption": "\n    Lewis and Clark meet Sylvia and Rhonda.\n  ",
+        "link": "https://www.thefarside.com/2024/07/06/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 05, 2024",
-      "link": "https://www.thefarside.com/2024/07/05",
-      "updated": "2024-07-05T15:17:43Z",
-      "id": "https://www.thefarside.com/2024/07/05",
+      "title": "The Far Side comic 2 for July 06, 2024",
+      "link": "https://www.thefarside.com/2024/07/06",
+      "updated": "2024-07-06T15:16:55Z",
+      "id": "https://www.thefarside.com/2024/07/06",
       "summary": {
-        "img": "https://assets.amuniversal.com/6b209200e9ef0137cf93005056a9545d",
-        "caption": "\n    Primitive theme parks\n  ",
-        "link": "https://www.thefarside.com/2024/07/05/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for July 05, 2024",
-      "link": "https://www.thefarside.com/2024/07/05",
-      "updated": "2024-07-05T15:17:43Z",
-      "id": "https://www.thefarside.com/2024/07/05",
-      "summary": {
-        "img": "https://assets.amuniversal.com/830c3750e85a0137cedf005056a9545d",
-        "caption": "\n    “Oh, the whole flower bed is still in shock. He was such a quiet butterfly—kept to himself mostly.”\n  ",
-        "link": "https://www.thefarside.com/2024/07/05/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for July 05, 2024",
-      "link": "https://www.thefarside.com/2024/07/05",
-      "updated": "2024-07-05T15:17:43Z",
-      "id": "https://www.thefarside.com/2024/07/05",
-      "summary": {
-        "img": "https://assets.amuniversal.com/52a84800fa880137d531005056a9545d",
-        "caption": "\n    “Well, hell no, I can’t tell Harriet! … First thing she’s gonna ask me is what was I doin’ checkin’ out a decoy!”\n  ",
-        "link": "https://www.thefarside.com/2024/07/05/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for July 05, 2024",
-      "link": "https://www.thefarside.com/2024/07/05",
-      "updated": "2024-07-05T15:17:43Z",
-      "id": "https://www.thefarside.com/2024/07/05",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ceb01290d8ba0137c959005056a9545d",
-        "caption": "\n    “Take this handkerchief back to the lab, Stevens. I want some answers on which monster did this—Godzilla? Gargantua?\n Who, dammit!?”\n  ",
-        "link": "https://www.thefarside.com/2024/07/05/4"
+        "img": "https://assets.amuniversal.com/305d8c20fa850137d52f005056a9545d",
+        "caption": "\n    “Our people are positioned on every street corner, commander. … Shall we commence with our plan to gradually eliminate these creatures?”\n  ",
+        "link": "https://www.thefarside.com/2024/07/06/1"
       }
     }
   ]
