@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-12T15:16:56Z",
+  "updated": "2024-07-13T15:15:44Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 12, 2024",
-      "link": "https://www.thefarside.com/2024/07/12",
-      "updated": "2024-07-12T15:16:56Z",
-      "id": "https://www.thefarside.com/2024/07/12",
+      "title": "The Far Side comic 1 for July 13, 2024",
+      "link": "https://www.thefarside.com/2024/07/13",
+      "updated": "2024-07-13T15:15:44Z",
+      "id": "https://www.thefarside.com/2024/07/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/00cda0f0cdd50137c56b005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/07/12/0"
+        "img": "https://assets.amuniversal.com/01315f40dcca0137caaf005056a9545d",
+        "caption": "\n    “Don’t ask me how it happened, Stan—just get your abdomen over here and get me unstuck!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/13/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 12, 2024",
-      "link": "https://www.thefarside.com/2024/07/12",
-      "updated": "2024-07-12T15:16:56Z",
-      "id": "https://www.thefarside.com/2024/07/12",
+      "title": "The Far Side comic 2 for July 13, 2024",
+      "link": "https://www.thefarside.com/2024/07/13",
+      "updated": "2024-07-13T15:15:44Z",
+      "id": "https://www.thefarside.com/2024/07/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/a2c30120395a0138eaa4005056a9545d",
-        "caption": "\n    “Heeeeeere, yakity yak yak yak! … Come, come, yakity yak\nyak yak!”\n  ",
-        "link": "https://www.thefarside.com/2024/07/12/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for July 12, 2024",
-      "link": "https://www.thefarside.com/2024/07/12",
-      "updated": "2024-07-12T15:16:56Z",
-      "id": "https://www.thefarside.com/2024/07/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/4ce91f40d7410137c8a6005056a9545d",
-        "caption": "\n    “Sorry, mister, but this is what we do to cattle rustlers in these parts.”\n  ",
-        "link": "https://www.thefarside.com/2024/07/12/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for July 12, 2024",
-      "link": "https://www.thefarside.com/2024/07/12",
-      "updated": "2024-07-12T15:16:56Z",
-      "id": "https://www.thefarside.com/2024/07/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/216fcc70a61b01396268005056a9545d",
-        "caption": "\n    “Well, don’t look at me, idiot! … I <i>said</i> we should’ve flown!”\n  ",
-        "link": "https://www.thefarside.com/2024/07/12/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for July 12, 2024",
-      "link": "https://www.thefarside.com/2024/07/12",
-      "updated": "2024-07-12T15:16:56Z",
-      "id": "https://www.thefarside.com/2024/07/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/e27b60b0d7400137c8a6005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/07/12/4"
+        "img": "https://assets.amuniversal.com/0b659790dccb0137caaf005056a9545d",
+        "caption": "\n    “Hold still, Omar. … Now look up. Yep. You’ve got something in your eye, all right. Could be sand.”\n  ",
+        "link": "https://www.thefarside.com/2024/07/13/1"
       }
     }
   ]
