@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-20T15:15:32Z",
+  "updated": "2024-07-21T15:17:35Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 20, 2024",
-      "link": "https://www.thefarside.com/2024/07/20",
-      "updated": "2024-07-20T15:15:32Z",
-      "id": "https://www.thefarside.com/2024/07/20",
+      "title": "The Far Side comic 1 for July 21, 2024",
+      "link": "https://www.thefarside.com/2024/07/21",
+      "updated": "2024-07-21T15:17:35Z",
+      "id": "https://www.thefarside.com/2024/07/21",
       "summary": {
-        "img": "https://assets.amuniversal.com/89be3c50d0be0137c62c005056a9545d",
-        "caption": "\n    “Okay, one more time and it’s off to bed for the both of you. …‘Hey, Bob. Think there are any bears in this old cave?’…‘I dunno, Jim. Let’s take a look.’”\n  ",
-        "link": "https://www.thefarside.com/2024/07/20/0"
+        "img": "https://assets.amuniversal.com/0954bd90fa840137d52f005056a9545d",
+        "caption": "\n    “Well, once again, here we are.”\n  ",
+        "link": "https://www.thefarside.com/2024/07/21/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 20, 2024",
-      "link": "https://www.thefarside.com/2024/07/20",
-      "updated": "2024-07-20T15:15:32Z",
-      "id": "https://www.thefarside.com/2024/07/20",
+      "title": "The Far Side comic 2 for July 21, 2024",
+      "link": "https://www.thefarside.com/2024/07/21",
+      "updated": "2024-07-21T15:17:35Z",
+      "id": "https://www.thefarside.com/2024/07/21",
       "summary": {
-        "img": "https://assets.amuniversal.com/66329970ea250137cfba005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/07/20/1"
+        "img": "https://assets.amuniversal.com/d3ffc130e9ee0137cf93005056a9545d",
+        "caption": "\n    Back in his college days, Igor was known as the HBOC.\n  ",
+        "link": "https://www.thefarside.com/2024/07/21/1"
       }
     }
   ]
