@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-21T15:17:35Z",
+  "updated": "2024-07-22T15:18:42Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 21, 2024",
-      "link": "https://www.thefarside.com/2024/07/21",
-      "updated": "2024-07-21T15:17:35Z",
-      "id": "https://www.thefarside.com/2024/07/21",
+      "title": "The Far Side comic 1 for July 22, 2024",
+      "link": "https://www.thefarside.com/2024/07/22",
+      "updated": "2024-07-22T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/07/22",
       "summary": {
-        "img": "https://assets.amuniversal.com/0954bd90fa840137d52f005056a9545d",
-        "caption": "\n    “Well, once again, here we are.”\n  ",
-        "link": "https://www.thefarside.com/2024/07/21/0"
+        "img": "https://assets.amuniversal.com/518c0860d7420137c8a6005056a9545d",
+        "caption": "\n    “Here he comes, Earl. … Remember, be gentle but firm … we are absolutely, positively, NOT driving him south this winter.”\n  ",
+        "link": "https://www.thefarside.com/2024/07/22/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 21, 2024",
-      "link": "https://www.thefarside.com/2024/07/21",
-      "updated": "2024-07-21T15:17:35Z",
-      "id": "https://www.thefarside.com/2024/07/21",
+      "title": "The Far Side comic 2 for July 22, 2024",
+      "link": "https://www.thefarside.com/2024/07/22",
+      "updated": "2024-07-22T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/07/22",
       "summary": {
-        "img": "https://assets.amuniversal.com/d3ffc130e9ee0137cf93005056a9545d",
-        "caption": "\n    Back in his college days, Igor was known as the HBOC.\n  ",
-        "link": "https://www.thefarside.com/2024/07/21/1"
+        "img": "https://assets.amuniversal.com/cedd6cd0ea250137cfba005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/07/22/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for July 22, 2024",
+      "link": "https://www.thefarside.com/2024/07/22",
+      "updated": "2024-07-22T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/07/22",
+      "summary": {
+        "img": "https://assets.amuniversal.com/88611e70e4860137cda5005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/07/22/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for July 22, 2024",
+      "link": "https://www.thefarside.com/2024/07/22",
+      "updated": "2024-07-22T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/07/22",
+      "summary": {
+        "img": "https://assets.amuniversal.com/b25f3540e9ef0137cf93005056a9545d",
+        "caption": "\n    “Listen up, my Cossack brethren! We’ll ride into the valley like the wind, the thunder of our horses and the lightning of our steel striking fear in the hearts of our enemies! … And remember—stay out of Mrs. Caldwell’s garden!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/22/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for July 22, 2024",
+      "link": "https://www.thefarside.com/2024/07/22",
+      "updated": "2024-07-22T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/07/22",
+      "summary": {
+        "img": "https://assets.amuniversal.com/1f6c6110cdd60137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/07/22/4"
       }
     }
   ]
