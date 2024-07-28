@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-27T15:16:07Z",
+  "updated": "2024-07-28T15:16:00Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 27, 2024",
-      "link": "https://www.thefarside.com/2024/07/27",
-      "updated": "2024-07-27T15:16:07Z",
-      "id": "https://www.thefarside.com/2024/07/27",
+      "title": "The Far Side comic 1 for July 28, 2024",
+      "link": "https://www.thefarside.com/2024/07/28",
+      "updated": "2024-07-28T15:16:00Z",
+      "id": "https://www.thefarside.com/2024/07/28",
       "summary": {
-        "img": "https://assets.amuniversal.com/84163f70e3ae0137cd49005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/07/27/0"
+        "img": "https://assets.amuniversal.com/111ed300d7410137c8a6005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/07/28/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 27, 2024",
-      "link": "https://www.thefarside.com/2024/07/27",
-      "updated": "2024-07-27T15:16:07Z",
-      "id": "https://www.thefarside.com/2024/07/27",
+      "title": "The Far Side comic 2 for July 28, 2024",
+      "link": "https://www.thefarside.com/2024/07/28",
+      "updated": "2024-07-28T15:16:00Z",
+      "id": "https://www.thefarside.com/2024/07/28",
       "summary": {
-        "img": "https://assets.amuniversal.com/0a805320e92e0137cf47005056a9545d",
-        "caption": "\n    Alert, but far from panicked, the herbivores studied the sudden arrival of two cheetah speedwalkers.\n  ",
-        "link": "https://www.thefarside.com/2024/07/27/1"
+        "img": "https://assets.amuniversal.com/5b16f530cdd20137c56b005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/07/28/1"
       }
     }
   ]
