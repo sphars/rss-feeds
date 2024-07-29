@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-07-28T15:16:00Z",
+  "updated": "2024-07-29T15:17:55Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for July 28, 2024",
-      "link": "https://www.thefarside.com/2024/07/28",
-      "updated": "2024-07-28T15:16:00Z",
-      "id": "https://www.thefarside.com/2024/07/28",
+      "title": "The Far Side comic 1 for July 29, 2024",
+      "link": "https://www.thefarside.com/2024/07/29",
+      "updated": "2024-07-29T15:17:55Z",
+      "id": "https://www.thefarside.com/2024/07/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/111ed300d7410137c8a6005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/07/28/0"
+        "img": "https://assets.amuniversal.com/37908140df100137cbaf005056a9545d",
+        "caption": "\n    The Grim Reaper as a child\n  ",
+        "link": "https://www.thefarside.com/2024/07/29/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for July 28, 2024",
-      "link": "https://www.thefarside.com/2024/07/28",
-      "updated": "2024-07-28T15:16:00Z",
-      "id": "https://www.thefarside.com/2024/07/28",
+      "title": "The Far Side comic 2 for July 29, 2024",
+      "link": "https://www.thefarside.com/2024/07/29",
+      "updated": "2024-07-29T15:17:55Z",
+      "id": "https://www.thefarside.com/2024/07/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/5b16f530cdd20137c56b005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/07/28/1"
+        "img": "https://assets.amuniversal.com/ea6a6590cdd20137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/07/29/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for July 29, 2024",
+      "link": "https://www.thefarside.com/2024/07/29",
+      "updated": "2024-07-29T15:17:55Z",
+      "id": "https://www.thefarside.com/2024/07/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/ce2c1320df0f0137cbaf005056a9545d",
+        "caption": "\n    “Mr. Bailey? There’s a gentleman here who claims\nan ancestor of yours once defiled his crypt, and now \nyou’re the last remaining Bailey and … oh, \nsomething about a curse. Should I send him in?”\n  ",
+        "link": "https://www.thefarside.com/2024/07/29/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for July 29, 2024",
+      "link": "https://www.thefarside.com/2024/07/29",
+      "updated": "2024-07-29T15:17:55Z",
+      "id": "https://www.thefarside.com/2024/07/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/f66ad5c0cdd30137c56b005056a9545d",
+        "caption": "\n    “Go for it, Sidney! You’ve got it! You’ve got it! Good hands! Don’t choke!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/29/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for July 29, 2024",
+      "link": "https://www.thefarside.com/2024/07/29",
+      "updated": "2024-07-29T15:17:55Z",
+      "id": "https://www.thefarside.com/2024/07/29",
+      "summary": {
+        "img": "https://assets.amuniversal.com/15cb2b80fa850137d52f005056a9545d",
+        "caption": "\n    “Oh my God! It’s Leonard! … He stuffed himself!”\n  ",
+        "link": "https://www.thefarside.com/2024/07/29/4"
       }
     }
   ]
