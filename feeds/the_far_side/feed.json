@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-09T15:18:53Z",
+  "updated": "2024-08-10T15:18:12Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 09, 2024",
-      "link": "https://www.thefarside.com/2024/08/09",
-      "updated": "2024-08-09T15:18:53Z",
-      "id": "https://www.thefarside.com/2024/08/09",
+      "title": "The Far Side comic 1 for August 10, 2024",
+      "link": "https://www.thefarside.com/2024/08/10",
+      "updated": "2024-08-10T15:18:12Z",
+      "id": "https://www.thefarside.com/2024/08/10",
       "summary": {
-        "img": "https://assets.amuniversal.com/70a26520d7410137c8a6005056a9545d",
-        "caption": "\n    “Hey! What’s going on here? ... We’re losing the visual!”\n  ",
-        "link": "https://www.thefarside.com/2024/08/09/0"
+        "img": "https://assets.amuniversal.com/44e0c6d0e92e0137cf47005056a9545d",
+        "caption": "\n    “Give me a hand here, boys! It’s young Will Hawkins! … Dang fool tried to ride into the sunset!”\n  ",
+        "link": "https://www.thefarside.com/2024/08/10/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 09, 2024",
-      "link": "https://www.thefarside.com/2024/08/09",
-      "updated": "2024-08-09T15:18:53Z",
-      "id": "https://www.thefarside.com/2024/08/09",
+      "title": "The Far Side comic 2 for August 10, 2024",
+      "link": "https://www.thefarside.com/2024/08/10",
+      "updated": "2024-08-10T15:18:12Z",
+      "id": "https://www.thefarside.com/2024/08/10",
       "summary": {
-        "img": "https://assets.amuniversal.com/a3c805b0cdd50137c56b005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/08/09/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for August 09, 2024",
-      "link": "https://www.thefarside.com/2024/08/09",
-      "updated": "2024-08-09T15:18:53Z",
-      "id": "https://www.thefarside.com/2024/08/09",
-      "summary": {
-        "img": "https://assets.amuniversal.com/95b01c6658c311ea8bf6005056a9",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/08/09/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for August 09, 2024",
-      "link": "https://www.thefarside.com/2024/08/09",
-      "updated": "2024-08-09T15:18:53Z",
-      "id": "https://www.thefarside.com/2024/08/09",
-      "summary": {
-        "img": "https://assets.amuniversal.com/95acd0fa58c311ea8bf6005056a9",
-        "caption": "\n    \n\n\n\n\n\n\n\n\n\n“Why ... yes ... thank ... you ... I ... would ... like ... a ... knuckle ... sandwich.”\n  ",
-        "link": "https://www.thefarside.com/2024/08/09/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for August 09, 2024",
-      "link": "https://www.thefarside.com/2024/08/09",
-      "updated": "2024-08-09T15:18:53Z",
-      "id": "https://www.thefarside.com/2024/08/09",
-      "summary": {
-        "img": "https://assets.amuniversal.com/c81faa20d83901396fe6005056a9545d",
-        "caption": "\n    “All this time you’ve been able to go home whenever you desired—just click your heels together and repeat after me ...”\n  ",
-        "link": "https://www.thefarside.com/2024/08/09/4"
+        "img": "https://assets.amuniversal.com/fa6cb670cdd60137c56b005056a9545d",
+        "caption": "\n    “Hang on, Betty. … Someone’s bound to see us eventually.”\n  ",
+        "link": "https://www.thefarside.com/2024/08/10/1"
       }
     }
   ]
