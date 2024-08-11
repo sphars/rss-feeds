@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-10T15:18:12Z",
+  "updated": "2024-08-11T15:17:30Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 10, 2024",
-      "link": "https://www.thefarside.com/2024/08/10",
-      "updated": "2024-08-10T15:18:12Z",
-      "id": "https://www.thefarside.com/2024/08/10",
+      "title": "The Far Side comic 1 for August 11, 2024",
+      "link": "https://www.thefarside.com/2024/08/11",
+      "updated": "2024-08-11T15:17:30Z",
+      "id": "https://www.thefarside.com/2024/08/11",
       "summary": {
-        "img": "https://assets.amuniversal.com/44e0c6d0e92e0137cf47005056a9545d",
-        "caption": "\n    “Give me a hand here, boys! It’s young Will Hawkins! … Dang fool tried to ride into the sunset!”\n  ",
-        "link": "https://www.thefarside.com/2024/08/10/0"
+        "img": "https://assets.amuniversal.com/051aa280d7410137c8a6005056a9545d",
+        "caption": "\n    “Mmmmmm. … Nope … nope. … I don’t like that at all. … Too many legs.”\n  ",
+        "link": "https://www.thefarside.com/2024/08/11/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 10, 2024",
-      "link": "https://www.thefarside.com/2024/08/10",
-      "updated": "2024-08-10T15:18:12Z",
-      "id": "https://www.thefarside.com/2024/08/10",
+      "title": "The Far Side comic 2 for August 11, 2024",
+      "link": "https://www.thefarside.com/2024/08/11",
+      "updated": "2024-08-11T15:17:30Z",
+      "id": "https://www.thefarside.com/2024/08/11",
       "summary": {
-        "img": "https://assets.amuniversal.com/fa6cb670cdd60137c56b005056a9545d",
-        "caption": "\n    “Hang on, Betty. … Someone’s bound to see us eventually.”\n  ",
-        "link": "https://www.thefarside.com/2024/08/10/1"
+        "img": "https://assets.amuniversal.com/716d0630e92f0137cf47005056a9545d",
+        "caption": "\n    Sumo temporaries\n  ",
+        "link": "https://www.thefarside.com/2024/08/11/1"
       }
     }
   ]
