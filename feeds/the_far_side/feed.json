@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-11T15:17:30Z",
+  "updated": "2024-08-12T15:19:21Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 11, 2024",
-      "link": "https://www.thefarside.com/2024/08/11",
-      "updated": "2024-08-11T15:17:30Z",
-      "id": "https://www.thefarside.com/2024/08/11",
+      "title": "The Far Side comic 1 for August 12, 2024",
+      "link": "https://www.thefarside.com/2024/08/12",
+      "updated": "2024-08-12T15:19:21Z",
+      "id": "https://www.thefarside.com/2024/08/12",
       "summary": {
-        "img": "https://assets.amuniversal.com/051aa280d7410137c8a6005056a9545d",
-        "caption": "\n    “Mmmmmm. … Nope … nope. … I don’t like that at all. … Too many legs.”\n  ",
-        "link": "https://www.thefarside.com/2024/08/11/0"
+        "img": "https://assets.amuniversal.com/0b283ae0d7410137c8a6005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/08/12/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 11, 2024",
-      "link": "https://www.thefarside.com/2024/08/11",
-      "updated": "2024-08-11T15:17:30Z",
-      "id": "https://www.thefarside.com/2024/08/11",
+      "title": "The Far Side comic 2 for August 12, 2024",
+      "link": "https://www.thefarside.com/2024/08/12",
+      "updated": "2024-08-12T15:19:21Z",
+      "id": "https://www.thefarside.com/2024/08/12",
       "summary": {
-        "img": "https://assets.amuniversal.com/716d0630e92f0137cf47005056a9545d",
-        "caption": "\n    Sumo temporaries\n  ",
-        "link": "https://www.thefarside.com/2024/08/11/1"
+        "img": "https://assets.amuniversal.com/c7e12f00e85a0137cedf005056a9545d",
+        "caption": "\n    At the international meeting of the \nDidn’t Like <i>Dances with Wolves</i> Society\n  ",
+        "link": "https://www.thefarside.com/2024/08/12/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for August 12, 2024",
+      "link": "https://www.thefarside.com/2024/08/12",
+      "updated": "2024-08-12T15:19:21Z",
+      "id": "https://www.thefarside.com/2024/08/12",
+      "summary": {
+        "img": "https://assets.amuniversal.com/2ca37a10e85c0137cedf005056a9545d",
+        "caption": "\n    “And now the weather—well, doggone it, but I’m afraid that\n cold front I told you about yesterday is just baaarrrely going to miss us.”\n  ",
+        "link": "https://www.thefarside.com/2024/08/12/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for August 12, 2024",
+      "link": "https://www.thefarside.com/2024/08/12",
+      "updated": "2024-08-12T15:19:21Z",
+      "id": "https://www.thefarside.com/2024/08/12",
+      "summary": {
+        "img": "https://assets.amuniversal.com/7a418450e92d0137cf47005056a9545d",
+        "caption": "\n    “Ooo! Look, Leon! An entire family of meatchucks!”\n  ",
+        "link": "https://www.thefarside.com/2024/08/12/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for August 12, 2024",
+      "link": "https://www.thefarside.com/2024/08/12",
+      "updated": "2024-08-12T15:19:21Z",
+      "id": "https://www.thefarside.com/2024/08/12",
+      "summary": {
+        "img": "https://assets.amuniversal.com/33dac590d8ba0137c959005056a9545d",
+        "caption": "\n    \n\n\n\n\n\n\n\n\n\n“Don’t listen to him, George. He didn’t\ncatch it ... the stupid thing swerved to miss him and ran into a tree.”\n  ",
+        "link": "https://www.thefarside.com/2024/08/12/4"
       }
     }
   ]
