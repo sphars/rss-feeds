@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-18T15:15:38Z",
+  "updated": "2024-08-19T15:18:40Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 18, 2024",
-      "link": "https://www.thefarside.com/2024/08/18",
-      "updated": "2024-08-18T15:15:38Z",
-      "id": "https://www.thefarside.com/2024/08/18",
+      "title": "The Far Side comic 1 for August 19, 2024",
+      "link": "https://www.thefarside.com/2024/08/19",
+      "updated": "2024-08-19T15:18:40Z",
+      "id": "https://www.thefarside.com/2024/08/19",
       "summary": {
-        "img": "https://assets.amuniversal.com/ae9cd8d0e3ae0137cd49005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/08/18/0"
+        "img": "https://assets.amuniversal.com/82b56130ab71013963c4005056a9545d",
+        "caption": "\n    Mitch loses a dollar.\n  ",
+        "link": "https://www.thefarside.com/2024/08/19/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 18, 2024",
-      "link": "https://www.thefarside.com/2024/08/18",
-      "updated": "2024-08-18T15:15:38Z",
-      "id": "https://www.thefarside.com/2024/08/18",
+      "title": "The Far Side comic 2 for August 19, 2024",
+      "link": "https://www.thefarside.com/2024/08/19",
+      "updated": "2024-08-19T15:18:40Z",
+      "id": "https://www.thefarside.com/2024/08/19",
       "summary": {
-        "img": "https://assets.amuniversal.com/1de78dc0e3ae0137cd49005056a9545d",
-        "caption": "\n    Although impolite, the other bears could never help staring at Larry’s enormous deer gut.\n  ",
-        "link": "https://www.thefarside.com/2024/08/18/1"
+        "img": "https://assets.amuniversal.com/6b864ac0df0f0137cbaf005056a9545d",
+        "caption": "\n    “Ed … the ‘later’ is back.”\n\n  ",
+        "link": "https://www.thefarside.com/2024/08/19/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for August 19, 2024",
+      "link": "https://www.thefarside.com/2024/08/19",
+      "updated": "2024-08-19T15:18:40Z",
+      "id": "https://www.thefarside.com/2024/08/19",
+      "summary": {
+        "img": "https://assets.amuniversal.com/99434dc0ea250137cfba005056a9545d",
+        "caption": "\n    “I’m afraid you misunderstood. ... I said I’d like a mango.”\n  ",
+        "link": "https://www.thefarside.com/2024/08/19/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for August 19, 2024",
+      "link": "https://www.thefarside.com/2024/08/19",
+      "updated": "2024-08-19T15:18:40Z",
+      "id": "https://www.thefarside.com/2024/08/19",
+      "summary": {
+        "img": "https://assets.amuniversal.com/b786bf70e92e0137cf47005056a9545d",
+        "caption": "\n    Revealing some of the mathematical computations every cartoonist must know.\n\n  ",
+        "link": "https://www.thefarside.com/2024/08/19/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for August 19, 2024",
+      "link": "https://www.thefarside.com/2024/08/19",
+      "updated": "2024-08-19T15:18:40Z",
+      "id": "https://www.thefarside.com/2024/08/19",
+      "summary": {
+        "img": "https://assets.amuniversal.com/e8633ca0d8b90137c959005056a9545d",
+        "caption": "\n    “Well, there is some irony in all this, you know. ... I mean, we <i>both</i> lose a contact at the same time?!”\n  ",
+        "link": "https://www.thefarside.com/2024/08/19/4"
       }
     }
   ]
