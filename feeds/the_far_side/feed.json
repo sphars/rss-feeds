@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-23T15:19:48Z",
+  "updated": "2024-08-24T15:16:25Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 23, 2024",
-      "link": "https://www.thefarside.com/2024/08/23",
-      "updated": "2024-08-23T15:19:48Z",
-      "id": "https://www.thefarside.com/2024/08/23",
+      "title": "The Far Side comic 1 for August 24, 2024",
+      "link": "https://www.thefarside.com/2024/08/24",
+      "updated": "2024-08-24T15:16:25Z",
+      "id": "https://www.thefarside.com/2024/08/24",
       "summary": {
-        "img": "https://assets.amuniversal.com/d20738e0e6f90137ce50005056a9545d",
+        "img": "https://assets.amuniversal.com/388fefb0fa840137d52f005056a9545d",
+        "caption": "\n    “SHOE’S UNTIED!”\n\n  ",
+        "link": "https://www.thefarside.com/2024/08/24/0"
+      }
+    },
+    {
+      "title": "The Far Side comic 2 for August 24, 2024",
+      "link": "https://www.thefarside.com/2024/08/24",
+      "updated": "2024-08-24T15:16:25Z",
+      "id": "https://www.thefarside.com/2024/08/24",
+      "summary": {
+        "img": "https://assets.amuniversal.com/3a25618002810138d7bb005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/08/23/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for August 23, 2024",
-      "link": "https://www.thefarside.com/2024/08/23",
-      "updated": "2024-08-23T15:19:48Z",
-      "id": "https://www.thefarside.com/2024/08/23",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ad2ca8a0cdd30137c56b005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/08/23/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for August 23, 2024",
-      "link": "https://www.thefarside.com/2024/08/23",
-      "updated": "2024-08-23T15:19:48Z",
-      "id": "https://www.thefarside.com/2024/08/23",
-      "summary": {
-        "img": "https://assets.amuniversal.com/2d82cae0cdd70137c56b005056a9545d",
-        "caption": "\n    “See, Barbara? There’s no one in here, no one outside. ... I’ll even open the drapes and have a look.”\n  ",
-        "link": "https://www.thefarside.com/2024/08/23/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for August 23, 2024",
-      "link": "https://www.thefarside.com/2024/08/23",
-      "updated": "2024-08-23T15:19:48Z",
-      "id": "https://www.thefarside.com/2024/08/23",
-      "summary": {
-        "img": "https://assets.amuniversal.com/85844720d0be0137c62c005056a9545d",
-        "caption": "\n    Mermaid evolution\n  ",
-        "link": "https://www.thefarside.com/2024/08/23/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for August 23, 2024",
-      "link": "https://www.thefarside.com/2024/08/23",
-      "updated": "2024-08-23T15:19:48Z",
-      "id": "https://www.thefarside.com/2024/08/23",
-      "summary": {
-        "img": "https://assets.amuniversal.com/b00c30e0cdd40137c56b005056a9545d",
-        "caption": "\n    “And you should definitely stay away from short blondes and\ntall buildings.”\n  ",
-        "link": "https://www.thefarside.com/2024/08/23/4"
+        "link": "https://www.thefarside.com/2024/08/24/1"
       }
     }
   ]
