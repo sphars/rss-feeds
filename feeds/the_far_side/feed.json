@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-24T15:16:25Z",
+  "updated": "2024-08-25T15:16:30Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 24, 2024",
-      "link": "https://www.thefarside.com/2024/08/24",
-      "updated": "2024-08-24T15:16:25Z",
-      "id": "https://www.thefarside.com/2024/08/24",
+      "title": "The Far Side comic 1 for August 25, 2024",
+      "link": "https://www.thefarside.com/2024/08/25",
+      "updated": "2024-08-25T15:16:30Z",
+      "id": "https://www.thefarside.com/2024/08/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/388fefb0fa840137d52f005056a9545d",
-        "caption": "\n    “SHOE’S UNTIED!”\n\n  ",
-        "link": "https://www.thefarside.com/2024/08/24/0"
+        "img": "https://assets.amuniversal.com/6ac9f290e3ae0137cd49005056a9545d",
+        "caption": "\n    Flamingo toughs\n  ",
+        "link": "https://www.thefarside.com/2024/08/25/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 24, 2024",
-      "link": "https://www.thefarside.com/2024/08/24",
-      "updated": "2024-08-24T15:16:25Z",
-      "id": "https://www.thefarside.com/2024/08/24",
+      "title": "The Far Side comic 2 for August 25, 2024",
+      "link": "https://www.thefarside.com/2024/08/25",
+      "updated": "2024-08-25T15:16:30Z",
+      "id": "https://www.thefarside.com/2024/08/25",
       "summary": {
-        "img": "https://assets.amuniversal.com/3a25618002810138d7bb005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/08/24/1"
+        "img": "https://assets.amuniversal.com/cee5f8f0fa830137d52f005056a9545d",
+        "caption": "\n    “For God’s sake, kill the lights, Murray—he’s back again!”\n  ",
+        "link": "https://www.thefarside.com/2024/08/25/1"
       }
     }
   ]
