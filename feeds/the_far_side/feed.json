@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-30T15:18:08Z",
+  "updated": "2024-08-31T15:17:24Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 30, 2024",
-      "link": "https://www.thefarside.com/2024/08/30",
-      "updated": "2024-08-30T15:18:08Z",
-      "id": "https://www.thefarside.com/2024/08/30",
+      "title": "The Far Side comic 1 for August 31, 2024",
+      "link": "https://www.thefarside.com/2024/08/31",
+      "updated": "2024-08-31T15:17:24Z",
+      "id": "https://www.thefarside.com/2024/08/31",
       "summary": {
-        "img": "https://assets.amuniversal.com/0159d900dccb0137caaf005056a9545d",
-        "caption": "\n    When a tree falls in the forest and no one is around.\n  ",
-        "link": "https://www.thefarside.com/2024/08/30/0"
+        "img": "https://assets.amuniversal.com/e4000b40fa850137d52f005056a9545d",
+        "caption": "\n    Abraham Lincoln’s first car\n\n  ",
+        "link": "https://www.thefarside.com/2024/08/31/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 30, 2024",
-      "link": "https://www.thefarside.com/2024/08/30",
-      "updated": "2024-08-30T15:18:08Z",
-      "id": "https://www.thefarside.com/2024/08/30",
+      "title": "The Far Side comic 2 for August 31, 2024",
+      "link": "https://www.thefarside.com/2024/08/31",
+      "updated": "2024-08-31T15:17:24Z",
+      "id": "https://www.thefarside.com/2024/08/31",
       "summary": {
-        "img": "https://assets.amuniversal.com/9893b950dcca0137caaf005056a9545d",
-        "caption": "\n    “Well, guess who’s home a little early from today’s castle siege?”\n  ",
-        "link": "https://www.thefarside.com/2024/08/30/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for August 30, 2024",
-      "link": "https://www.thefarside.com/2024/08/30",
-      "updated": "2024-08-30T15:18:08Z",
-      "id": "https://www.thefarside.com/2024/08/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/46f32c20ea250137cfba005056a9545d",
-        "caption": "\n    For the time being, the monster wasn’t in Ricky’s closet. For the time being.\n  ",
-        "link": "https://www.thefarside.com/2024/08/30/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for August 30, 2024",
-      "link": "https://www.thefarside.com/2024/08/30",
-      "updated": "2024-08-30T15:18:08Z",
-      "id": "https://www.thefarside.com/2024/08/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/c0902410d8ba0137c959005056a9545d",
-        "caption": "\n    “Any theories on this, Cummings?”\n  ",
-        "link": "https://www.thefarside.com/2024/08/30/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for August 30, 2024",
-      "link": "https://www.thefarside.com/2024/08/30",
-      "updated": "2024-08-30T15:18:08Z",
-      "id": "https://www.thefarside.com/2024/08/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/ab08b060e6f70137ce50005056a9545d",
-        "caption": "\n    Geraldo Rivera of the wild\n  ",
-        "link": "https://www.thefarside.com/2024/08/30/4"
+        "img": "https://assets.amuniversal.com/93252570cdd20137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/08/31/1"
       }
     }
   ]
