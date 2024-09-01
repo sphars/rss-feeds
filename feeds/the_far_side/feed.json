@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-08-31T15:17:24Z",
+  "updated": "2024-09-01T15:17:27Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for August 31, 2024",
-      "link": "https://www.thefarside.com/2024/08/31",
-      "updated": "2024-08-31T15:17:24Z",
-      "id": "https://www.thefarside.com/2024/08/31",
+      "title": "The Far Side comic 1 for September 01, 2024",
+      "link": "https://www.thefarside.com/2024/09/01",
+      "updated": "2024-09-01T15:17:27Z",
+      "id": "https://www.thefarside.com/2024/09/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/e4000b40fa850137d52f005056a9545d",
-        "caption": "\n    Abraham Lincoln’s first car\n\n  ",
-        "link": "https://www.thefarside.com/2024/08/31/0"
+        "img": "https://assets.amuniversal.com/d55e8f00e6f90137ce50005056a9545d",
+        "caption": "\n    “Uh-oh. Carol’s inviting us over for cake, and I’m sure it’s just loaded with palm oil.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/01/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for August 31, 2024",
-      "link": "https://www.thefarside.com/2024/08/31",
-      "updated": "2024-08-31T15:17:24Z",
-      "id": "https://www.thefarside.com/2024/08/31",
+      "title": "The Far Side comic 2 for September 01, 2024",
+      "link": "https://www.thefarside.com/2024/09/01",
+      "updated": "2024-09-01T15:17:27Z",
+      "id": "https://www.thefarside.com/2024/09/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/93252570cdd20137c56b005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/08/31/1"
+        "img": "https://assets.amuniversal.com/ad5848a0e3ae0137cd49005056a9545d",
+        "caption": "\n    Through some unfortunate celestial error, Ernie is sent to Hog Heaven.\n  ",
+        "link": "https://www.thefarside.com/2024/09/01/1"
       }
     }
   ]
