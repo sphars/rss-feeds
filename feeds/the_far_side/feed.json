@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-01T15:17:27Z",
+  "updated": "2024-09-02T15:18:20Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 01, 2024",
-      "link": "https://www.thefarside.com/2024/09/01",
-      "updated": "2024-09-01T15:17:27Z",
-      "id": "https://www.thefarside.com/2024/09/01",
+      "title": "The Far Side comic 1 for September 02, 2024",
+      "link": "https://www.thefarside.com/2024/09/02",
+      "updated": "2024-09-02T15:18:20Z",
+      "id": "https://www.thefarside.com/2024/09/02",
       "summary": {
-        "img": "https://assets.amuniversal.com/d55e8f00e6f90137ce50005056a9545d",
-        "caption": "\n    “Uh-oh. Carol’s inviting us over for cake, and I’m sure it’s just loaded with palm oil.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/01/0"
+        "img": "https://assets.amuniversal.com/a858db40df0f0137cbaf005056a9545d",
+        "caption": "\n    In God’s den\n  ",
+        "link": "https://www.thefarside.com/2024/09/02/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 01, 2024",
-      "link": "https://www.thefarside.com/2024/09/01",
-      "updated": "2024-09-01T15:17:27Z",
-      "id": "https://www.thefarside.com/2024/09/01",
+      "title": "The Far Side comic 2 for September 02, 2024",
+      "link": "https://www.thefarside.com/2024/09/02",
+      "updated": "2024-09-02T15:18:20Z",
+      "id": "https://www.thefarside.com/2024/09/02",
       "summary": {
-        "img": "https://assets.amuniversal.com/ad5848a0e3ae0137cd49005056a9545d",
-        "caption": "\n    Through some unfortunate celestial error, Ernie is sent to Hog Heaven.\n  ",
-        "link": "https://www.thefarside.com/2024/09/01/1"
+        "img": "https://assets.amuniversal.com/e6c397c0cdd50137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/09/02/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for September 02, 2024",
+      "link": "https://www.thefarside.com/2024/09/02",
+      "updated": "2024-09-02T15:18:20Z",
+      "id": "https://www.thefarside.com/2024/09/02",
+      "summary": {
+        "img": "https://assets.amuniversal.com/6c8271c0cdd50137c56b005056a9545d",
+        "caption": "\n    “This is Harold Schwartz! ... Something horrible is happening out here!”\n  ",
+        "link": "https://www.thefarside.com/2024/09/02/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for September 02, 2024",
+      "link": "https://www.thefarside.com/2024/09/02",
+      "updated": "2024-09-02T15:18:20Z",
+      "id": "https://www.thefarside.com/2024/09/02",
+      "summary": {
+        "img": "https://assets.amuniversal.com/5374fbb0dcca0137caaf005056a9545d",
+        "caption": "\n    “Whoopsies! … If this tomb <i>does</i> have a curse on it, Webster, I daresay we’ll be the first to find out.”\n\n  ",
+        "link": "https://www.thefarside.com/2024/09/02/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for September 02, 2024",
+      "link": "https://www.thefarside.com/2024/09/02",
+      "updated": "2024-09-02T15:18:20Z",
+      "id": "https://www.thefarside.com/2024/09/02",
+      "summary": {
+        "img": "https://assets.amuniversal.com/64bd7690d7410137c8a6005056a9545d",
+        "caption": "\n    While Farmer Brown was away, the cows got into the kitchen and were having the time of their lives—until Betsy’s\n unwitting discovery.\n  ",
+        "link": "https://www.thefarside.com/2024/09/02/4"
       }
     }
   ]
