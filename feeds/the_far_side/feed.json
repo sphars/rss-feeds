@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-12T15:18:46Z",
+  "updated": "2024-09-13T15:19:08Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 12, 2024",
-      "link": "https://www.thefarside.com/2024/09/12",
-      "updated": "2024-09-12T15:18:46Z",
-      "id": "https://www.thefarside.com/2024/09/12",
+      "title": "The Far Side comic 1 for September 13, 2024",
+      "link": "https://www.thefarside.com/2024/09/13",
+      "updated": "2024-09-13T15:19:08Z",
+      "id": "https://www.thefarside.com/2024/09/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/fbe8b0a0ea250137cfba005056a9545d",
-        "caption": "\n    The curse of mad scientist’s block\n  ",
-        "link": "https://www.thefarside.com/2024/09/12/0"
-      }
-    },
-    {
-      "title": "The Far Side comic 2 for September 12, 2024",
-      "link": "https://www.thefarside.com/2024/09/12",
-      "updated": "2024-09-12T15:18:46Z",
-      "id": "https://www.thefarside.com/2024/09/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/66a869a0dcc90137caaf005056a9545d",
-        "caption": "\n    “As if we all knew where we’re going.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/12/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for September 12, 2024",
-      "link": "https://www.thefarside.com/2024/09/12",
-      "updated": "2024-09-12T15:18:46Z",
-      "id": "https://www.thefarside.com/2024/09/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/c87f9d80e6f80137ce50005056a9545d",
-        "caption": "\n    Early shell games\n  ",
-        "link": "https://www.thefarside.com/2024/09/12/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for September 12, 2024",
-      "link": "https://www.thefarside.com/2024/09/12",
-      "updated": "2024-09-12T15:18:46Z",
-      "id": "https://www.thefarside.com/2024/09/12",
-      "summary": {
-        "img": "https://assets.amuniversal.com/d44a93a0cdd20137c56b005056a9545d",
+        "img": "https://webassets.thefarside.com/content-error-missing-image.jpeg",
         "caption": "",
-        "link": "https://www.thefarside.com/2024/09/12/3"
+        "link": "https://www.thefarside.com/2024/09/13/0"
       }
     },
     {
-      "title": "The Far Side comic 5 for September 12, 2024",
-      "link": "https://www.thefarside.com/2024/09/12",
-      "updated": "2024-09-12T15:18:46Z",
-      "id": "https://www.thefarside.com/2024/09/12",
+      "title": "The Far Side comic 2 for September 13, 2024",
+      "link": "https://www.thefarside.com/2024/09/13",
+      "updated": "2024-09-13T15:19:08Z",
+      "id": "https://www.thefarside.com/2024/09/13",
       "summary": {
-        "img": "https://assets.amuniversal.com/d8b98000ea240137cfba005056a9545d",
-        "caption": "\n    “Well, I’d recommend either the chicken-fried steak or maybe the seafood platter. But look—I gotta be honest with ya—nothin’ we serve is exactly what I’d call food for the gods.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/12/4"
+        "img": "https://assets.amuniversal.com/4ada9b00e6f80137ce50005056a9545d",
+        "caption": "\n    “My God! Vikings! And they mean business!”\n\n  ",
+        "link": "https://www.thefarside.com/2024/09/13/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for September 13, 2024",
+      "link": "https://www.thefarside.com/2024/09/13",
+      "updated": "2024-09-13T15:19:08Z",
+      "id": "https://www.thefarside.com/2024/09/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/7af5c6d0ab71013963c4005056a9545d",
+        "caption": "\n    Ed and Barbara are visited by the insects of the Amazon Basin.\n  ",
+        "link": "https://www.thefarside.com/2024/09/13/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for September 13, 2024",
+      "link": "https://www.thefarside.com/2024/09/13",
+      "updated": "2024-09-13T15:19:08Z",
+      "id": "https://www.thefarside.com/2024/09/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/c97b8700fa830137d52f005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/09/13/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for September 13, 2024",
+      "link": "https://www.thefarside.com/2024/09/13",
+      "updated": "2024-09-13T15:19:08Z",
+      "id": "https://www.thefarside.com/2024/09/13",
+      "summary": {
+        "img": "https://assets.amuniversal.com/3c280570cdd70137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/09/13/4"
       }
     }
   ]
