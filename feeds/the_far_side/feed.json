@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-14T15:16:57Z",
+  "updated": "2024-09-15T15:17:13Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 14, 2024",
-      "link": "https://www.thefarside.com/2024/09/14",
-      "updated": "2024-09-14T15:16:57Z",
-      "id": "https://www.thefarside.com/2024/09/14",
+      "title": "The Far Side comic 1 for September 15, 2024",
+      "link": "https://www.thefarside.com/2024/09/15",
+      "updated": "2024-09-15T15:17:13Z",
+      "id": "https://www.thefarside.com/2024/09/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/8d25c1d0d7400137c8a6005056a9545d",
-        "caption": "\n    “Hey! Look at me, everybody! I’m a cowboy! … Howdy,\nhowdy, howdy!”\n  ",
-        "link": "https://www.thefarside.com/2024/09/14/0"
+        "img": "https://assets.amuniversal.com/2161c9c0d7410137c8a6005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/09/15/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 14, 2024",
-      "link": "https://www.thefarside.com/2024/09/14",
-      "updated": "2024-09-14T15:16:57Z",
-      "id": "https://www.thefarside.com/2024/09/14",
+      "title": "The Far Side comic 2 for September 15, 2024",
+      "link": "https://www.thefarside.com/2024/09/15",
+      "updated": "2024-09-15T15:17:13Z",
+      "id": "https://www.thefarside.com/2024/09/15",
       "summary": {
-        "img": "https://assets.amuniversal.com/bc2b6c20dcc90137caaf005056a9545d",
-        "caption": "\n    “Oh, look, Roger! Nerds! … And some little nerdlings!”\n  ",
-        "link": "https://www.thefarside.com/2024/09/14/1"
+        "img": "https://assets.amuniversal.com/5c801730e9ef0137cf93005056a9545d",
+        "caption": "\n    Once again, Vernon has a good shirt ruined by a cheap pocket octopus.\n\n  ",
+        "link": "https://www.thefarside.com/2024/09/15/1"
       }
     }
   ]
