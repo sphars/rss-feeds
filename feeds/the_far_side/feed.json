@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-22T15:17:14Z",
+  "updated": "2024-09-23T15:19:47Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 22, 2024",
-      "link": "https://www.thefarside.com/2024/09/22",
-      "updated": "2024-09-22T15:17:14Z",
-      "id": "https://www.thefarside.com/2024/09/22",
+      "title": "The Far Side comic 1 for September 23, 2024",
+      "link": "https://www.thefarside.com/2024/09/23",
+      "updated": "2024-09-23T15:19:47Z",
+      "id": "https://www.thefarside.com/2024/09/23",
       "summary": {
-        "img": "https://assets.amuniversal.com/3aa7abe0cdd50137c56b005056a9545d",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/09/22/0"
+        "img": "https://assets.amuniversal.com/f53bc650cdd50137c56b005056a9545d",
+        "caption": "\n    “Hey, buddy … you wanna buy a hoofed mammal?”\n\n  ",
+        "link": "https://www.thefarside.com/2024/09/23/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 22, 2024",
-      "link": "https://www.thefarside.com/2024/09/22",
-      "updated": "2024-09-22T15:17:14Z",
-      "id": "https://www.thefarside.com/2024/09/22",
+      "title": "The Far Side comic 2 for September 23, 2024",
+      "link": "https://www.thefarside.com/2024/09/23",
+      "updated": "2024-09-23T15:19:47Z",
+      "id": "https://www.thefarside.com/2024/09/23",
       "summary": {
-        "img": "https://assets.amuniversal.com/425bd910d7410137c8a6005056a9545d",
-        "caption": "\n    “Darlene is going with some new guy. … And <i>he’s</i> got a shell.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/22/1"
+        "img": "https://assets.amuniversal.com/0c919fe0e4870137cda5005056a9545d",
+        "caption": "\n    Pinocchio in his later years\n  ",
+        "link": "https://www.thefarside.com/2024/09/23/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for September 23, 2024",
+      "link": "https://www.thefarside.com/2024/09/23",
+      "updated": "2024-09-23T15:19:47Z",
+      "id": "https://www.thefarside.com/2024/09/23",
+      "summary": {
+        "img": "https://assets.amuniversal.com/09b659c0dcc90137caaf005056a9545d",
+        "caption": "\n    “Whoa, back off, Bobby Joe. … That’s just your reflection.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/23/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for September 23, 2024",
+      "link": "https://www.thefarside.com/2024/09/23",
+      "updated": "2024-09-23T15:19:47Z",
+      "id": "https://www.thefarside.com/2024/09/23",
+      "summary": {
+        "img": "https://assets.amuniversal.com/0b3b6e50dcc90137caaf005056a9545d",
+        "caption": "\n    “And what is <i>this</i>, Nurse Wilkens? I distinctly asked for the <i>big</i> scalpel! … Big scalpel! Big scalpel!”\n  ",
+        "link": "https://www.thefarside.com/2024/09/23/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for September 23, 2024",
+      "link": "https://www.thefarside.com/2024/09/23",
+      "updated": "2024-09-23T15:19:47Z",
+      "id": "https://www.thefarside.com/2024/09/23",
+      "summary": {
+        "img": "https://assets.amuniversal.com/5dafade0fa840137d52f005056a9545d",
+        "caption": "\n    “I don’t seeeeee … Wait! There it is! Oo! I hate those little slivers that stand straight up and down.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/23/4"
       }
     }
   ]
