@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-28T15:19:18Z",
+  "updated": "2024-09-29T15:18:42Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 28, 2024",
-      "link": "https://www.thefarside.com/2024/09/28",
-      "updated": "2024-09-28T15:19:18Z",
-      "id": "https://www.thefarside.com/2024/09/28",
+      "title": "The Far Side comic 1 for September 29, 2024",
+      "link": "https://www.thefarside.com/2024/09/29",
+      "updated": "2024-09-29T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/09/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/3d255480cdd40137c56b005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/09/28/0"
+        "img": "https://assets.amuniversal.com/b08d10e0dcc90137caaf005056a9545d",
+        "caption": "\n    “You’re a hard man, Bud.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/29/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 28, 2024",
-      "link": "https://www.thefarside.com/2024/09/28",
-      "updated": "2024-09-28T15:19:18Z",
-      "id": "https://www.thefarside.com/2024/09/28",
+      "title": "The Far Side comic 2 for September 29, 2024",
+      "link": "https://www.thefarside.com/2024/09/29",
+      "updated": "2024-09-29T15:18:42Z",
+      "id": "https://www.thefarside.com/2024/09/29",
       "summary": {
-        "img": "https://assets.amuniversal.com/fd343940dcca0137caaf005056a9545d",
-        "caption": "\n    “Are you serious? Look at our arms! If anything, I’m <i>twice</i> as tan as you are.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/28/1"
+        "img": "https://assets.amuniversal.com/b7375ab0fa850137d52f005056a9545d",
+        "caption": "\n    God at His computer\n\n  ",
+        "link": "https://www.thefarside.com/2024/09/29/1"
       }
     }
   ]
