@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-29T15:18:42Z",
+  "updated": "2024-09-30T15:20:25Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 29, 2024",
-      "link": "https://www.thefarside.com/2024/09/29",
-      "updated": "2024-09-29T15:18:42Z",
-      "id": "https://www.thefarside.com/2024/09/29",
+      "title": "The Far Side comic 1 for September 30, 2024",
+      "link": "https://www.thefarside.com/2024/09/30",
+      "updated": "2024-09-30T15:20:25Z",
+      "id": "https://www.thefarside.com/2024/09/30",
       "summary": {
-        "img": "https://assets.amuniversal.com/b08d10e0dcc90137caaf005056a9545d",
-        "caption": "\n    “You’re a hard man, Bud.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/29/0"
+        "img": "https://assets.amuniversal.com/081d899002810138d7bb005056a9545d",
+        "caption": "\n    “C’mon, c’mon—it’s either one or the other.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/30/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 29, 2024",
-      "link": "https://www.thefarside.com/2024/09/29",
-      "updated": "2024-09-29T15:18:42Z",
-      "id": "https://www.thefarside.com/2024/09/29",
+      "title": "The Far Side comic 2 for September 30, 2024",
+      "link": "https://www.thefarside.com/2024/09/30",
+      "updated": "2024-09-30T15:20:25Z",
+      "id": "https://www.thefarside.com/2024/09/30",
       "summary": {
-        "img": "https://assets.amuniversal.com/b7375ab0fa850137d52f005056a9545d",
-        "caption": "\n    God at His computer\n\n  ",
-        "link": "https://www.thefarside.com/2024/09/29/1"
+        "img": "https://assets.amuniversal.com/84b2ecd0cdd20137c56b005056a9545d",
+        "caption": "\n    “He bit the Godfather.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/30/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for September 30, 2024",
+      "link": "https://www.thefarside.com/2024/09/30",
+      "updated": "2024-09-30T15:20:25Z",
+      "id": "https://www.thefarside.com/2024/09/30",
+      "summary": {
+        "img": "https://assets.amuniversal.com/19333460cdd40137c56b005056a9545d",
+        "caption": "\n    “Oh, Mrs. Oswald ... you’ve forgotten something again.”\n  ",
+        "link": "https://www.thefarside.com/2024/09/30/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for September 30, 2024",
+      "link": "https://www.thefarside.com/2024/09/30",
+      "updated": "2024-09-30T15:20:25Z",
+      "id": "https://www.thefarside.com/2024/09/30",
+      "summary": {
+        "img": "https://assets.amuniversal.com/2fda5ab0ea260137cfba005056a9545d",
+        "caption": "\n    Professor Wainwright’s painstaking field research to decode the language of bears comes to a sudden and horrific end.\n  ",
+        "link": "https://www.thefarside.com/2024/09/30/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for September 30, 2024",
+      "link": "https://www.thefarside.com/2024/09/30",
+      "updated": "2024-09-30T15:20:25Z",
+      "id": "https://www.thefarside.com/2024/09/30",
+      "summary": {
+        "img": "https://assets.amuniversal.com/63d659b0cdd20137c56b005056a9545d",
+        "caption": "",
+        "link": "https://www.thefarside.com/2024/09/30/4"
       }
     }
   ]
