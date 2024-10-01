@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-09-30T15:20:25Z",
+  "updated": "2024-10-01T15:19:30Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for September 30, 2024",
-      "link": "https://www.thefarside.com/2024/09/30",
-      "updated": "2024-09-30T15:20:25Z",
-      "id": "https://www.thefarside.com/2024/09/30",
+      "title": "The Far Side comic 1 for October 01, 2024",
+      "link": "https://www.thefarside.com/2024/10/01",
+      "updated": "2024-10-01T15:19:30Z",
+      "id": "https://www.thefarside.com/2024/10/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/081d899002810138d7bb005056a9545d",
-        "caption": "\n    “C’mon, c’mon—it’s either one or the other.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/30/0"
+        "img": "https://assets.amuniversal.com/30a062b0d0f70137c652005056a9545d",
+        "caption": "\n    In the hallway of the Old Cartoonists’ Home\n  ",
+        "link": "https://www.thefarside.com/2024/10/01/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for September 30, 2024",
-      "link": "https://www.thefarside.com/2024/09/30",
-      "updated": "2024-09-30T15:20:25Z",
-      "id": "https://www.thefarside.com/2024/09/30",
+      "title": "The Far Side comic 2 for October 01, 2024",
+      "link": "https://www.thefarside.com/2024/10/01",
+      "updated": "2024-10-01T15:19:30Z",
+      "id": "https://www.thefarside.com/2024/10/01",
       "summary": {
-        "img": "https://assets.amuniversal.com/84b2ecd0cdd20137c56b005056a9545d",
-        "caption": "\n    “He bit the Godfather.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/30/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for September 30, 2024",
-      "link": "https://www.thefarside.com/2024/09/30",
-      "updated": "2024-09-30T15:20:25Z",
-      "id": "https://www.thefarside.com/2024/09/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/19333460cdd40137c56b005056a9545d",
-        "caption": "\n    “Oh, Mrs. Oswald ... you’ve forgotten something again.”\n  ",
-        "link": "https://www.thefarside.com/2024/09/30/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for September 30, 2024",
-      "link": "https://www.thefarside.com/2024/09/30",
-      "updated": "2024-09-30T15:20:25Z",
-      "id": "https://www.thefarside.com/2024/09/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/2fda5ab0ea260137cfba005056a9545d",
-        "caption": "\n    Professor Wainwright’s painstaking field research to decode the language of bears comes to a sudden and horrific end.\n  ",
-        "link": "https://www.thefarside.com/2024/09/30/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for September 30, 2024",
-      "link": "https://www.thefarside.com/2024/09/30",
-      "updated": "2024-09-30T15:20:25Z",
-      "id": "https://www.thefarside.com/2024/09/30",
-      "summary": {
-        "img": "https://assets.amuniversal.com/63d659b0cdd20137c56b005056a9545d",
+        "img": "https://webassets.thefarside.com/content-error-missing-image.jpeg",
         "caption": "",
-        "link": "https://www.thefarside.com/2024/09/30/4"
+        "link": "https://www.thefarside.com/2024/10/01/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for October 01, 2024",
+      "link": "https://www.thefarside.com/2024/10/01",
+      "updated": "2024-10-01T15:19:30Z",
+      "id": "https://www.thefarside.com/2024/10/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/80f255d0dcca0137caaf005056a9545d",
+        "caption": "\n    Stupid clerks\n\n  ",
+        "link": "https://www.thefarside.com/2024/10/01/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for October 01, 2024",
+      "link": "https://www.thefarside.com/2024/10/01",
+      "updated": "2024-10-01T15:19:30Z",
+      "id": "https://www.thefarside.com/2024/10/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/27c28bd0e92f0137cf47005056a9545d",
+        "caption": "\n    “Confession time, Mona—I’ve led you astray.”\n  ",
+        "link": "https://www.thefarside.com/2024/10/01/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for October 01, 2024",
+      "link": "https://www.thefarside.com/2024/10/01",
+      "updated": "2024-10-01T15:19:30Z",
+      "id": "https://www.thefarside.com/2024/10/01",
+      "summary": {
+        "img": "https://assets.amuniversal.com/04585120cdd30137c56b005056a9545d",
+        "caption": "\n    “And the last gladiator left alive will win the contest. But first … the egg-toss!”\n  ",
+        "link": "https://www.thefarside.com/2024/10/01/4"
       }
     }
   ]
