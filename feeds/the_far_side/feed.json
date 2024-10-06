@@ -3,29 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-10-05T15:18:21Z",
+  "updated": "2024-10-06T15:18:11Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for October 05, 2024",
-      "link": "https://www.thefarside.com/2024/10/05",
-      "updated": "2024-10-05T15:18:21Z",
-      "id": "https://www.thefarside.com/2024/10/05",
+      "title": "The Far Side comic 1 for October 06, 2024",
+      "link": "https://www.thefarside.com/2024/10/06",
+      "updated": "2024-10-06T15:18:11Z",
+      "id": "https://www.thefarside.com/2024/10/06",
       "summary": {
-        "img": "https://assets.amuniversal.com/da55c8b0d7400137c8a6005056a9545d",
-        "caption": "\n    Custer’s first stand\n  ",
-        "link": "https://www.thefarside.com/2024/10/05/0"
+        "img": "https://assets.amuniversal.com/a4f77f10d7410137c8a6005056a9545d",
+        "caption": "\n    Darrell suspected someone had once again slipped him a trick spoon with the concave side reversed.\n  ",
+        "link": "https://www.thefarside.com/2024/10/06/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for October 05, 2024",
-      "link": "https://www.thefarside.com/2024/10/05",
-      "updated": "2024-10-05T15:18:21Z",
-      "id": "https://www.thefarside.com/2024/10/05",
+      "title": "The Far Side comic 2 for October 06, 2024",
+      "link": "https://www.thefarside.com/2024/10/06",
+      "updated": "2024-10-06T15:18:11Z",
+      "id": "https://www.thefarside.com/2024/10/06",
       "summary": {
-        "img": "https://assets.amuniversal.com/2bc29890cdd40137c56b005056a9545d",
-        "caption": "\n    “My stomach? … <i>Your</i> stomach’s rumbling!”\n  ",
-        "link": "https://www.thefarside.com/2024/10/05/1"
+        "img": "https://assets.amuniversal.com/822595f0cdd30137c56b005056a9545d",
+        "caption": "\n    “You moron! ... I told you it was only a mirage!”\n  ",
+        "link": "https://www.thefarside.com/2024/10/06/1"
       }
     }
   ]
