@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-10-11T15:19:03Z",
+  "updated": "2024-10-12T15:18:01Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for October 11, 2024",
-      "link": "https://www.thefarside.com/2024/10/11",
-      "updated": "2024-10-11T15:19:03Z",
-      "id": "https://www.thefarside.com/2024/10/11",
+      "title": "The Far Side comic 1 for October 12, 2024",
+      "link": "https://www.thefarside.com/2024/10/12",
+      "updated": "2024-10-12T15:18:01Z",
+      "id": "https://www.thefarside.com/2024/10/12",
       "summary": {
-        "img": "https://assets.amuniversal.com/43cf59a0e3ae0137cd49005056a9545d",
+        "img": "https://assets.amuniversal.com/0ba55e40fa880137d531005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/10/11/0"
+        "link": "https://www.thefarside.com/2024/10/12/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for October 11, 2024",
-      "link": "https://www.thefarside.com/2024/10/11",
-      "updated": "2024-10-11T15:19:03Z",
-      "id": "https://www.thefarside.com/2024/10/11",
+      "title": "The Far Side comic 2 for October 12, 2024",
+      "link": "https://www.thefarside.com/2024/10/12",
+      "updated": "2024-10-12T15:18:01Z",
+      "id": "https://www.thefarside.com/2024/10/12",
       "summary": {
-        "img": "https://assets.amuniversal.com/848500a0d0d10137c639005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/10/11/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for October 11, 2024",
-      "link": "https://www.thefarside.com/2024/10/11",
-      "updated": "2024-10-11T15:19:03Z",
-      "id": "https://www.thefarside.com/2024/10/11",
-      "summary": {
-        "img": "https://assets.amuniversal.com/8c9b31e0d0be0137c62c005056a9545d",
-        "caption": "\n    “Harold! The dog’s trying to blow up the house again! Catch him in the act or he’ll never learn!”\n  ",
-        "link": "https://www.thefarside.com/2024/10/11/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for October 11, 2024",
-      "link": "https://www.thefarside.com/2024/10/11",
-      "updated": "2024-10-11T15:19:03Z",
-      "id": "https://www.thefarside.com/2024/10/11",
-      "summary": {
-        "img": "https://assets.amuniversal.com/34318400fa880137d531005056a9545d",
-        "caption": "\n    In the longest hour of his life, Morty takes the dare \nof his sloth buddies and crosses the Autobahn.\n  ",
-        "link": "https://www.thefarside.com/2024/10/11/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for October 11, 2024",
-      "link": "https://www.thefarside.com/2024/10/11",
-      "updated": "2024-10-11T15:19:03Z",
-      "id": "https://www.thefarside.com/2024/10/11",
-      "summary": {
-        "img": "https://assets.amuniversal.com/cca073d0e92e0137cf47005056a9545d",
-        "caption": "\n    Things from Ipanema\n  ",
-        "link": "https://www.thefarside.com/2024/10/11/4"
+        "img": "https://assets.amuniversal.com/e1bcd9f0e92e0137cf47005056a9545d",
+        "caption": "\n    Fumbling for his recline button, Ted unwittingly instigates a disaster.\n  ",
+        "link": "https://www.thefarside.com/2024/10/12/1"
       }
     }
   ]
