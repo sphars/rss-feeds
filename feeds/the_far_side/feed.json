@@ -3,29 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-10-13T15:18:18Z",
+  "updated": "2024-10-14T15:19:33Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for October 13, 2024",
-      "link": "https://www.thefarside.com/2024/10/13",
-      "updated": "2024-10-13T15:18:18Z",
-      "id": "https://www.thefarside.com/2024/10/13",
+      "title": "The Far Side comic 1 for October 14, 2024",
+      "link": "https://www.thefarside.com/2024/10/14",
+      "updated": "2024-10-14T15:19:33Z",
+      "id": "https://www.thefarside.com/2024/10/14",
       "summary": {
-        "img": "https://assets.amuniversal.com/95b4395e58c311ea8bf6005056a9",
-        "caption": "\n    \n\n\n\n\n\n\n\n\n\n“Oh, yeah? ... How’d you like your nose unflattened?”\n  ",
-        "link": "https://www.thefarside.com/2024/10/13/0"
+        "img": "https://assets.amuniversal.com/91632fb0d7410137c8a6005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/10/14/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for October 13, 2024",
-      "link": "https://www.thefarside.com/2024/10/13",
-      "updated": "2024-10-13T15:18:18Z",
-      "id": "https://www.thefarside.com/2024/10/13",
+      "title": "The Far Side comic 2 for October 14, 2024",
+      "link": "https://www.thefarside.com/2024/10/14",
+      "updated": "2024-10-14T15:19:33Z",
+      "id": "https://www.thefarside.com/2024/10/14",
       "summary": {
-        "img": "https://assets.amuniversal.com/62d24bf0e85b0137cedf005056a9545d",
-        "caption": "\n    \n\n\n\n\n\n\n\n\n\nUnwittingly, Raymond wanders into the\nhive’s company picnic.\n  ",
-        "link": "https://www.thefarside.com/2024/10/13/1"
+        "img": "https://assets.amuniversal.com/5859e5a0e9ee0137cf93005056a9545d",
+        "caption": "\n    Monday night in the woods\n\n  ",
+        "link": "https://www.thefarside.com/2024/10/14/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for October 14, 2024",
+      "link": "https://www.thefarside.com/2024/10/14",
+      "updated": "2024-10-14T15:19:33Z",
+      "id": "https://www.thefarside.com/2024/10/14",
+      "summary": {
+        "img": "https://assets.amuniversal.com/24f49fb0d0f70137c652005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/10/14/2"
+      }
+    },
+    {
+      "title": "The Far Side comic 4 for October 14, 2024",
+      "link": "https://www.thefarside.com/2024/10/14",
+      "updated": "2024-10-14T15:19:33Z",
+      "id": "https://www.thefarside.com/2024/10/14",
+      "summary": {
+        "img": "https://assets.amuniversal.com/c236cb60cdd20137c56b005056a9545d",
+        "caption": "\n    \n  ",
+        "link": "https://www.thefarside.com/2024/10/14/3"
+      }
+    },
+    {
+      "title": "The Far Side comic 5 for October 14, 2024",
+      "link": "https://www.thefarside.com/2024/10/14",
+      "updated": "2024-10-14T15:19:33Z",
+      "id": "https://www.thefarside.com/2024/10/14",
+      "summary": {
+        "img": "https://assets.amuniversal.com/95b4400e58c311ea8bf6005056a9",
+        "caption": "\n    \n\n\n\n\n\n\n\n\n\n“Well, that’s an interesting bit of\ntrivia—I guess I do only dream in black and white.”\n  ",
+        "link": "https://www.thefarside.com/2024/10/14/4"
       }
     }
   ]
