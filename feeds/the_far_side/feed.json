@@ -3,62 +3,29 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-10-18T15:20:12Z",
+  "updated": "2024-10-19T15:17:21Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for October 18, 2024",
-      "link": "https://www.thefarside.com/2024/10/18",
-      "updated": "2024-10-18T15:20:12Z",
-      "id": "https://www.thefarside.com/2024/10/18",
+      "title": "The Far Side comic 1 for October 19, 2024",
+      "link": "https://www.thefarside.com/2024/10/19",
+      "updated": "2024-10-19T15:17:21Z",
+      "id": "https://www.thefarside.com/2024/10/19",
       "summary": {
-        "img": "https://assets.amuniversal.com/ce03fb80df100137cbaf005056a9545d",
-        "caption": "\n    “Egad! Willard’s home early! Don’t move—his vision’s not very good, but his sense of smell and hearing are\nquite acute.”\n  ",
-        "link": "https://www.thefarside.com/2024/10/18/0"
+        "img": "https://assets.amuniversal.com/03a980b0b5440137bc07005056a9545d",
+        "caption": "\n    “I see your little, petrified skull … labeled and resting on a shelf somewhere.”\n  ",
+        "link": "https://www.thefarside.com/2024/10/19/0"
       }
     },
     {
-      "title": "The Far Side comic 2 for October 18, 2024",
-      "link": "https://www.thefarside.com/2024/10/18",
-      "updated": "2024-10-18T15:20:12Z",
-      "id": "https://www.thefarside.com/2024/10/18",
+      "title": "The Far Side comic 2 for October 19, 2024",
+      "link": "https://www.thefarside.com/2024/10/19",
+      "updated": "2024-10-19T15:17:21Z",
+      "id": "https://www.thefarside.com/2024/10/19",
       "summary": {
-        "img": "https://assets.amuniversal.com/26f7d240fa840137d52f005056a9545d",
-        "caption": "\n    “Hey! C’mon! Hold it! Hold it! ... Or someone’s gonna get hurt!”\n  ",
-        "link": "https://www.thefarside.com/2024/10/18/1"
-      }
-    },
-    {
-      "title": "The Far Side comic 3 for October 18, 2024",
-      "link": "https://www.thefarside.com/2024/10/18",
-      "updated": "2024-10-18T15:20:12Z",
-      "id": "https://www.thefarside.com/2024/10/18",
-      "summary": {
-        "img": "https://assets.amuniversal.com/8eb97370c1520137c0b4005056a9545d",
-        "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/10/18/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for October 18, 2024",
-      "link": "https://www.thefarside.com/2024/10/18",
-      "updated": "2024-10-18T15:20:12Z",
-      "id": "https://www.thefarside.com/2024/10/18",
-      "summary": {
-        "img": "https://assets.amuniversal.com/c111d1a0e9ef0137cf93005056a9545d",
-        "caption": "\n    Raymond’s last day as the band’s sound technician.\n  ",
-        "link": "https://www.thefarside.com/2024/10/18/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for October 18, 2024",
-      "link": "https://www.thefarside.com/2024/10/18",
-      "updated": "2024-10-18T15:20:12Z",
-      "id": "https://www.thefarside.com/2024/10/18",
-      "summary": {
-        "img": "https://assets.amuniversal.com/dde395b0cdd20137c56b005056a9545d",
-        "caption": "\n    “And remember … ask <i>not</i> what your anthill can do for you, but what you can do for your anthill.”\n\n  ",
-        "link": "https://www.thefarside.com/2024/10/18/4"
+        "img": "https://assets.amuniversal.com/81c5c860d8ba0137c959005056a9545d",
+        "caption": "\n    “My word, Frank—sounds like you’re coming down with one heck of a cold.”\n\n  ",
+        "link": "https://www.thefarside.com/2024/10/19/1"
       }
     }
   ]
