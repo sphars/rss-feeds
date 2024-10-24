@@ -3,62 +3,62 @@
   "subtitle": "RSS feed for daily The Far Side comics. Copyright FarWorks, Inc. All rights reserved.",
   "link": "https://www.thefarside.com/",
   "id": "https://www.thefarside.com/",
-  "updated": "2024-10-23T15:19:46Z",
+  "updated": "2024-10-24T15:20:10Z",
   "author": "Gary Larson",
   "entries": [
     {
-      "title": "The Far Side comic 1 for October 23, 2024",
-      "link": "https://www.thefarside.com/2024/10/23",
-      "updated": "2024-10-23T15:19:46Z",
-      "id": "https://www.thefarside.com/2024/10/23",
+      "title": "The Far Side comic 1 for October 24, 2024",
+      "link": "https://www.thefarside.com/2024/10/24",
+      "updated": "2024-10-24T15:20:10Z",
+      "id": "https://www.thefarside.com/2024/10/24",
       "summary": {
-        "img": "https://assets.amuniversal.com/c9abb580df100137cbaf005056a9545d",
+        "img": "https://assets.amuniversal.com/ffe21ac0e3ae0137cd49005056a9545d",
+        "caption": "\n    “Uh-oh, Donny. Sounds like the monster in the basement has heard you crying again. ... Let’s be reeeeal quiet and hope he goes away.”\n  ",
+        "link": "https://www.thefarside.com/2024/10/24/0"
+      }
+    },
+    {
+      "title": "The Far Side comic 2 for October 24, 2024",
+      "link": "https://www.thefarside.com/2024/10/24",
+      "updated": "2024-10-24T15:20:10Z",
+      "id": "https://www.thefarside.com/2024/10/24",
+      "summary": {
+        "img": "https://assets.amuniversal.com/263090709ee701396086005056a9545d",
+        "caption": "\n    “Mind if we check the ears?”\n  ",
+        "link": "https://www.thefarside.com/2024/10/24/1"
+      }
+    },
+    {
+      "title": "The Far Side comic 3 for October 24, 2024",
+      "link": "https://www.thefarside.com/2024/10/24",
+      "updated": "2024-10-24T15:20:10Z",
+      "id": "https://www.thefarside.com/2024/10/24",
+      "summary": {
+        "img": "https://assets.amuniversal.com/4ba56700cdd40137c56b005056a9545d",
         "caption": "\n    \n  ",
-        "link": "https://www.thefarside.com/2024/10/23/0"
+        "link": "https://www.thefarside.com/2024/10/24/2"
       }
     },
     {
-      "title": "The Far Side comic 2 for October 23, 2024",
-      "link": "https://www.thefarside.com/2024/10/23",
-      "updated": "2024-10-23T15:19:46Z",
-      "id": "https://www.thefarside.com/2024/10/23",
+      "title": "The Far Side comic 4 for October 24, 2024",
+      "link": "https://www.thefarside.com/2024/10/24",
+      "updated": "2024-10-24T15:20:10Z",
+      "id": "https://www.thefarside.com/2024/10/24",
       "summary": {
-        "img": "https://assets.amuniversal.com/765bf020e3ae0137cd49005056a9545d",
-        "caption": "\n    If the Cleavers had been Eskimos\n\n  ",
-        "link": "https://www.thefarside.com/2024/10/23/1"
+        "img": "https://assets.amuniversal.com/4325f970e9ef0137cf93005056a9545d",
+        "caption": "\n    “How could you think that? … I’ve <i>always</i> been attracted by your personality.”\n  ",
+        "link": "https://www.thefarside.com/2024/10/24/3"
       }
     },
     {
-      "title": "The Far Side comic 3 for October 23, 2024",
-      "link": "https://www.thefarside.com/2024/10/23",
-      "updated": "2024-10-23T15:19:46Z",
-      "id": "https://www.thefarside.com/2024/10/23",
+      "title": "The Far Side comic 5 for October 24, 2024",
+      "link": "https://www.thefarside.com/2024/10/24",
+      "updated": "2024-10-24T15:20:10Z",
+      "id": "https://www.thefarside.com/2024/10/24",
       "summary": {
-        "img": "https://webassets.thefarside.com/content-error-missing-image.jpeg",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/10/23/2"
-      }
-    },
-    {
-      "title": "The Far Side comic 4 for October 23, 2024",
-      "link": "https://www.thefarside.com/2024/10/23",
-      "updated": "2024-10-23T15:19:46Z",
-      "id": "https://www.thefarside.com/2024/10/23",
-      "summary": {
-        "img": "https://webassets.thefarside.com/content-error-missing-image.jpeg",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/10/23/3"
-      }
-    },
-    {
-      "title": "The Far Side comic 5 for October 23, 2024",
-      "link": "https://www.thefarside.com/2024/10/23",
-      "updated": "2024-10-23T15:19:46Z",
-      "id": "https://www.thefarside.com/2024/10/23",
-      "summary": {
-        "img": "https://webassets.thefarside.com/content-error-missing-image.jpeg",
-        "caption": "",
-        "link": "https://www.thefarside.com/2024/10/23/4"
+        "img": "https://assets.amuniversal.com/de3e6530ea240137cfba005056a9545d",
+        "caption": "\n    Leonard felt his skin suddenly crawl. Coming through the door were a couple of real sketchy characters.\n\n  ",
+        "link": "https://www.thefarside.com/2024/10/24/4"
       }
     }
   ]
